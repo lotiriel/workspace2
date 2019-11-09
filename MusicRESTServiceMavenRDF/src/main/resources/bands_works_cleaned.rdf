@@ -1,0 +1,3379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cdWorks="http://www.best.groups/cdWorks#">
+  <rdf:Description rdf:about="http://www.best.groups/cdWorks/Deep_Purple">
+    <cdWorks:bandname>Deep Purple</cdWorks:bandname>
+    <cdWorks:numworks>78</cdWorks:numworks>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.best.groups/cdWorks/Black_Sabbath">
+    <cdWorks:bandname>Black Sabbath</cdWorks:bandname>
+    <cdWorks:numworks>52</cdWorks:numworks>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.best.groups/cdWorks/B&apos;z">
+    <cdWorks:bandname>B&apos;z</cdWorks:bandname>
+    <cdWorks:numworks>49</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Electric_Light_Orchestra">
+    <cdWorks:bandname>Electric Light Orchestra</cdWorks:bandname>
+    <cdWorks:numworks>47</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Earth,_Wind_&amp;_Fire">
+    <cdWorks:bandname>Earth, Wind &amp; Fire</cdWorks:bandname>
+    <cdWorks:numworks>44</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Chicago">
+    <cdWorks:bandname>Chicago</cdWorks:bandname>
+    <cdWorks:numworks>42</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fleetwood_Mac">
+    <cdWorks:bandname>Fleetwood Mac</cdWorks:bandname>
+    <cdWorks:numworks>40</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Aerosmith">
+    <cdWorks:bandname>Aerosmith</cdWorks:bandname>
+    <cdWorks:numworks>40</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fairport_Convention">
+    <cdWorks:bandname>Fairport Convention</cdWorks:bandname>
+    <cdWorks:numworks>40</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Casiopea">
+    <cdWorks:bandname>Casiopea</cdWorks:bandname>
+    <cdWorks:numworks>40</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Genesis">
+    <cdWorks:bandname>Genesis</cdWorks:bandname>
+    <cdWorks:numworks>39</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/April_Wine">
+    <cdWorks:bandname>April Wine</cdWorks:bandname>
+    <cdWorks:numworks>39</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/AC/DC">
+    <cdWorks:bandname>AC/DC</cdWorks:bandname>
+    <cdWorks:numworks>37</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Circle">
+    <cdWorks:bandname>Circle</cdWorks:bandname>
+    <cdWorks:numworks>37</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Buck-Tick">
+    <cdWorks:bandname>Buck-Tick</cdWorks:bandname>
+    <cdWorks:numworks>37</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dir_En_Grey">
+    <cdWorks:bandname>Dir En Grey</cdWorks:bandname>
+    <cdWorks:numworks>37</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Erasure">
+    <cdWorks:bandname>Erasure</cdWorks:bandname>
+    <cdWorks:numworks>37</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Duran_Duran">
+    <cdWorks:bandname>Duran Duran</cdWorks:bandname>
+    <cdWorks:numworks>36</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bon_Jovi">
+    <cdWorks:bandname>Bon Jovi</cdWorks:bandname>
+    <cdWorks:numworks>36</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cameo">
+    <cdWorks:bandname>Cameo</cdWorks:bandname>
+    <cdWorks:numworks>35</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Depeche_Mode">
+    <cdWorks:bandname>Depeche Mode</cdWorks:bandname>
+    <cdWorks:numworks>35</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Alabama">
+    <cdWorks:bandname>Alabama</cdWorks:bandname>
+    <cdWorks:numworks>34</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Die_Ärzte">
+    <cdWorks:bandname>Die Ärzte</cdWorks:bandname>
+    <cdWorks:numworks>32</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Einstürzende_Neubauten">
+    <cdWorks:bandname>Einstürzende Neubauten</cdWorks:bandname>
+    <cdWorks:numworks>32</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Front_Line_Assembly">
+    <cdWorks:bandname>Front Line Assembly</cdWorks:bandname>
+    <cdWorks:numworks>32</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bonfire">
+    <cdWorks:bandname>Bonfire</cdWorks:bandname>
+    <cdWorks:numworks>31</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gnaw_Their_Tongues">
+    <cdWorks:bandname>Gnaw Their Tongues</cdWorks:bandname>
+    <cdWorks:numworks>31</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Golden_Earring">
+    <cdWorks:bandname>Golden Earring</cdWorks:bandname>
+    <cdWorks:numworks>30</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dream_Theater">
+    <cdWorks:bandname>Dream Theater</cdWorks:bandname>
+    <cdWorks:numworks>30</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Echo_&amp;_the_Bunnymen">
+    <cdWorks:bandname>Echo &amp; the Bunnymen</cdWorks:bandname>
+    <cdWorks:numworks>30</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Current_93">
+    <cdWorks:bandname>Current 93</cdWorks:bandname>
+    <cdWorks:numworks>29</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Camel">
+    <cdWorks:bandname>Camel</cdWorks:bandname>
+    <cdWorks:numworks>29</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Boredoms">
+    <cdWorks:bandname>Boredoms</cdWorks:bandname>
+    <cdWorks:numworks>29</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Devo">
+    <cdWorks:bandname>Devo</cdWorks:bandname>
+    <cdWorks:numworks>29</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/America">
+    <cdWorks:bandname>America</cdWorks:bandname>
+    <cdWorks:numworks>28</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dave_Matthews_Band">
+    <cdWorks:bandname>Dave Matthews Band</cdWorks:bandname>
+    <cdWorks:numworks>28</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Barenaked_Ladies">
+    <cdWorks:bandname>Barenaked Ladies</cdWorks:bandname>
+    <cdWorks:numworks>28</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Def_Leppard">
+    <cdWorks:bandname>Def Leppard</cdWorks:bandname>
+    <cdWorks:numworks>27</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blue_Öyster_Cult">
+    <cdWorks:bandname>Blue Öyster Cult</cdWorks:bandname>
+    <cdWorks:numworks>27</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Anthrax">
+    <cdWorks:bandname>Anthrax</cdWorks:bandname>
+    <cdWorks:numworks>27</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cold_Chisel">
+    <cdWorks:bandname>Cold Chisel</cdWorks:bandname>
+    <cdWorks:numworks>26</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bad_Religion">
+    <cdWorks:bandname>Bad Religion</cdWorks:bandname>
+    <cdWorks:numworks>26</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Caravan">
+    <cdWorks:bandname>Caravan</cdWorks:bandname>
+    <cdWorks:numworks>26</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cheap_Trick">
+    <cdWorks:bandname>Cheap Trick</cdWorks:bandname>
+    <cdWorks:numworks>26</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Foetus">
+    <cdWorks:bandname>Foetus</cdWorks:bandname>
+    <cdWorks:numworks>25</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blondie">
+    <cdWorks:bandname>Blondie</cdWorks:bandname>
+    <cdWorks:numworks>25</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bananarama">
+    <cdWorks:bandname>Bananarama</cdWorks:bandname>
+    <cdWorks:numworks>25</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Behemoth">
+    <cdWorks:bandname>Behemoth</cdWorks:bandname>
+    <cdWorks:numworks>25</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Böhse_Onkelz">
+    <cdWorks:bandname>Böhse Onkelz</cdWorks:bandname>
+    <cdWorks:numworks>25</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Atomic_Rooster">
+    <cdWorks:bandname>Atomic Rooster</cdWorks:bandname>
+    <cdWorks:numworks>24</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cowboy_Junkies">
+    <cdWorks:bandname>Cowboy Junkies</cdWorks:bandname>
+    <cdWorks:numworks>24</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/A-ha">
+    <cdWorks:bandname>A-ha</cdWorks:bandname>
+    <cdWorks:numworks>24</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Every_Little_Thing">
+    <cdWorks:bandname>Every Little Thing</cdWorks:bandname>
+    <cdWorks:numworks>24</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gamma_Ray">
+    <cdWorks:bandname>Gamma Ray</cdWorks:bandname>
+    <cdWorks:numworks>24</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dokken">
+    <cdWorks:bandname>Dokken</cdWorks:bandname>
+    <cdWorks:numworks>24</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Black_Flag">
+    <cdWorks:bandname>Black Flag</cdWorks:bandname>
+    <cdWorks:numworks>23</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Atmosphere">
+    <cdWorks:bandname>Atmosphere</cdWorks:bandname>
+    <cdWorks:numworks>23</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gong">
+    <cdWorks:bandname>Gong</cdWorks:bandname>
+    <cdWorks:numworks>23</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Chic">
+    <cdWorks:bandname>Chic</cdWorks:bandname>
+    <cdWorks:numworks>23</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Do_As_Infinity">
+    <cdWorks:bandname>Do As Infinity</cdWorks:bandname>
+    <cdWorks:numworks>23</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Girlschool">
+    <cdWorks:bandname>Girlschool</cdWorks:bandname>
+    <cdWorks:numworks>23</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Budgie">
+    <cdWorks:bandname>Budgie</cdWorks:bandname>
+    <cdWorks:numworks>22</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Above_&amp;_Beyond">
+    <cdWorks:bandname>Above &amp; Beyond</cdWorks:bandname>
+    <cdWorks:numworks>22</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cradle_of_Filth">
+    <cdWorks:bandname>Cradle of Filth</cdWorks:bandname>
+    <cdWorks:numworks>22</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bright_Eyes">
+    <cdWorks:bandname>Bright Eyes</cdWorks:bandname>
+    <cdWorks:numworks>22</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dropkick_Murphys">
+    <cdWorks:bandname>Dropkick Murphys</cdWorks:bandname>
+    <cdWorks:numworks>22</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Accept">
+    <cdWorks:bandname>Accept</cdWorks:bandname>
+    <cdWorks:numworks>21</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Air_Supply">
+    <cdWorks:bandname>Air Supply</cdWorks:bandname>
+    <cdWorks:numworks>21</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/CMX">
+    <cdWorks:bandname>CMX</cdWorks:bandname>
+    <cdWorks:numworks>21</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bad_Company">
+    <cdWorks:bandname>Bad Company</cdWorks:bandname>
+    <cdWorks:numworks>21</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Europe">
+    <cdWorks:bandname>Europe</cdWorks:bandname>
+    <cdWorks:numworks>21</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Clutch">
+    <cdWorks:bandname>Clutch</cdWorks:bandname>
+    <cdWorks:numworks>21</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Anti-Flag">
+    <cdWorks:bandname>Anti-Flag</cdWorks:bandname>
+    <cdWorks:numworks>21</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Everclear">
+    <cdWorks:bandname>Everclear</cdWorks:bandname>
+    <cdWorks:numworks>21</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Girls&apos;_Generation">
+    <cdWorks:bandname>Girls&apos; Generation</cdWorks:bandname>
+    <cdWorks:numworks>21</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Annihilator">
+    <cdWorks:bandname>Annihilator</cdWorks:bandname>
+    <cdWorks:numworks>21</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blue_Rodeo">
+    <cdWorks:bandname>Blue Rodeo</cdWorks:bandname>
+    <cdWorks:numworks>21</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Arashi">
+    <cdWorks:bandname>Arashi</cdWorks:bandname>
+    <cdWorks:numworks>21</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Delerium">
+    <cdWorks:bandname>Delerium</cdWorks:bandname>
+    <cdWorks:numworks>21</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Asia">
+    <cdWorks:bandname>Asia</cdWorks:bandname>
+    <cdWorks:numworks>21</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bass_Communion">
+    <cdWorks:bandname>Bass Communion</cdWorks:bandname>
+    <cdWorks:numworks>21</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/AFI">
+    <cdWorks:bandname>AFI</cdWorks:bandname>
+    <cdWorks:numworks>20</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Anvil">
+    <cdWorks:bandname>Anvil</cdWorks:bandname>
+    <cdWorks:numworks>20</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/10cc">
+    <cdWorks:bandname>10cc</cdWorks:bandname>
+    <cdWorks:numworks>20</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fear_Factory">
+    <cdWorks:bandname>Fear Factory</cdWorks:bandname>
+    <cdWorks:numworks>20</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Glay">
+    <cdWorks:bandname>Glay</cdWorks:bandname>
+    <cdWorks:numworks>20</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Darkthrone">
+    <cdWorks:bandname>Darkthrone</cdWorks:bandname>
+    <cdWorks:numworks>19</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Good_Riddance">
+    <cdWorks:bandname>Good Riddance</cdWorks:bandname>
+    <cdWorks:numworks>19</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blues_Traveler">
+    <cdWorks:bandname>Blues Traveler</cdWorks:bandname>
+    <cdWorks:numworks>19</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blur">
+    <cdWorks:bandname>Blur</cdWorks:bandname>
+    <cdWorks:numworks>19</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Diamond_Head">
+    <cdWorks:bandname>Diamond Head</cdWorks:bandname>
+    <cdWorks:numworks>19</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Daniel_Amos">
+    <cdWorks:bandname>Daniel Amos</cdWorks:bandname>
+    <cdWorks:numworks>19</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Edguy">
+    <cdWorks:bandname>Edguy</cdWorks:bandname>
+    <cdWorks:numworks>19</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Deerhoof">
+    <cdWorks:bandname>Deerhoof</cdWorks:bandname>
+    <cdWorks:numworks>19</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bachman–Turner_Overdrive">
+    <cdWorks:bandname>Bachman–Turner Overdrive</cdWorks:bandname>
+    <cdWorks:numworks>19</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Galija">
+    <cdWorks:bandname>Galija</cdWorks:bandname>
+    <cdWorks:numworks>19</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dark_Tranquillity">
+    <cdWorks:bandname>Dark Tranquillity</cdWorks:bandname>
+    <cdWorks:numworks>18</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blutengel">
+    <cdWorks:bandname>Blutengel</cdWorks:bandname>
+    <cdWorks:numworks>18</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Combichrist">
+    <cdWorks:bandname>Combichrist</cdWorks:bandname>
+    <cdWorks:numworks>18</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Butthole_Surfers">
+    <cdWorks:bandname>Butthole Surfers</cdWorks:bandname>
+    <cdWorks:numworks>18</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Goo_Goo_Dolls">
+    <cdWorks:bandname>Goo Goo Dolls</cdWorks:bandname>
+    <cdWorks:numworks>18</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Eels">
+    <cdWorks:bandname>Eels</cdWorks:bandname>
+    <cdWorks:numworks>18</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Felt">
+    <cdWorks:bandname>Felt</cdWorks:bandname>
+    <cdWorks:numworks>18</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Foreigner">
+    <cdWorks:bandname>Foreigner</cdWorks:bandname>
+    <cdWorks:numworks>18</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Capsule">
+    <cdWorks:bandname>Capsule</cdWorks:bandname>
+    <cdWorks:numworks>18</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/311">
+    <cdWorks:bandname>311</cdWorks:bandname>
+    <cdWorks:numworks>18</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dimmu_Borgir">
+    <cdWorks:bandname>Dimmu Borgir</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Death_Cab_for_Cutie">
+    <cdWorks:bandname>Death Cab for Cutie</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Ghost">
+    <cdWorks:bandname>Ghost</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Commodores">
+    <cdWorks:bandname>Commodores</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Big_Bang">
+    <cdWorks:bandname>Big Bang</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Coheed_and_Cambria">
+    <cdWorks:bandname>Coheed and Cambria</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Anathema">
+    <cdWorks:bandname>Anathema</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Boyz_II_Men">
+    <cdWorks:bandname>Boyz II Men</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Deicide">
+    <cdWorks:bandname>Deicide</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cypress_Hill">
+    <cdWorks:bandname>Cypress Hill</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Feeder">
+    <cdWorks:bandname>Feeder</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/10,000_Maniacs">
+    <cdWorks:bandname>10,000 Maniacs</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Black_Label_Society">
+    <cdWorks:bandname>Black Label Society</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Big_Audio_Dynamite">
+    <cdWorks:bandname>Big Audio Dynamite</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Foghat">
+    <cdWorks:bandname>Foghat</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bad_Brains">
+    <cdWorks:bandname>Bad Brains</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bad_Manners">
+    <cdWorks:bandname>Bad Manners</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Alice_in_Chains">
+    <cdWorks:bandname>Alice in Chains</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/808_State">
+    <cdWorks:bandname>808 State</cdWorks:bandname>
+    <cdWorks:numworks>17</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Angra">
+    <cdWorks:bandname>Angra</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Drive-By_Truckers">
+    <cdWorks:bandname>Drive-By Truckers</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Descendents">
+    <cdWorks:bandname>Descendents</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Destroyer">
+    <cdWorks:bandname>Destroyer</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Atari_Teenage_Riot">
+    <cdWorks:bandname>Atari Teenage Riot</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fall_Out_Boy">
+    <cdWorks:bandname>Fall Out Boy</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Deacon_Blue">
+    <cdWorks:bandname>Deacon Blue</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Candlemass">
+    <cdWorks:bandname>Candlemass</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dive">
+    <cdWorks:bandname>Dive</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fishbone">
+    <cdWorks:bandname>Fishbone</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blind_Guardian">
+    <cdWorks:bandname>Blind Guardian</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Borbetomagus">
+    <cdWorks:bandname>Borbetomagus</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Alkaline_Trio">
+    <cdWorks:bandname>Alkaline Trio</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bowling_for_Soup">
+    <cdWorks:bandname>Bowling for Soup</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Enslaved">
+    <cdWorks:bandname>Enslaved</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Area">
+    <cdWorks:bandname>Area</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Foo_Fighters">
+    <cdWorks:bandname>Foo Fighters</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Ace_of_Base">
+    <cdWorks:bandname>Ace of Base</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Danzig">
+    <cdWorks:bandname>Danzig</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bad_Boys_Blue">
+    <cdWorks:bandname>Bad Boys Blue</cdWorks:bandname>
+    <cdWorks:numworks>16</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Big_Big_Train">
+    <cdWorks:bandname>Big Big Train</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cursive">
+    <cdWorks:bandname>Cursive</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Against_Me!">
+    <cdWorks:bandname>Against Me!</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bone_Thugs-N-Harmony">
+    <cdWorks:bandname>Bone Thugs-N-Harmony</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fates_Warning">
+    <cdWorks:bandname>Fates Warning</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Celtic_Woman">
+    <cdWorks:bandname>Celtic Woman</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/38_Special">
+    <cdWorks:bandname>38 Special</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Electric_Wizard">
+    <cdWorks:bandname>Electric Wizard</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Godflesh">
+    <cdWorks:bandname>Godflesh</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Faust">
+    <cdWorks:bandname>Faust</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Elio_e_le_Storie_Tese">
+    <cdWorks:bandname>Elio e le Storie Tese</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Entombed">
+    <cdWorks:bandname>Entombed</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Atlanta_Rhythm_Section">
+    <cdWorks:bandname>Atlanta Rhythm Section</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Animetal">
+    <cdWorks:bandname>Animetal</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Earth">
+    <cdWorks:bandname>Earth</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/De_La_Soul">
+    <cdWorks:bandname>De La Soul</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blackmore&apos;s_Night">
+    <cdWorks:bandname>Blackmore&apos;s Night</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/ABC">
+    <cdWorks:bandname>ABC</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dead_Can_Dance">
+    <cdWorks:bandname>Dead Can Dance</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Converge">
+    <cdWorks:bandname>Converge</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Brotherhood_of_Man">
+    <cdWorks:bandname>Brotherhood of Man</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Arch_Enemy">
+    <cdWorks:bandname>Arch Enemy</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Agnostic_Front">
+    <cdWorks:bandname>Agnostic Front</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/CNBLUE">
+    <cdWorks:bandname>CNBLUE</cdWorks:bandname>
+    <cdWorks:numworks>15</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Backstreet_Boys">
+    <cdWorks:bandname>Backstreet Boys</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Extremoduro">
+    <cdWorks:bandname>Extremoduro</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Belle_and_Sebastian">
+    <cdWorks:bandname>Belle and Sebastian</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Brainstorm">
+    <cdWorks:bandname>Brainstorm</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Black_Tape_for_a_Blue_Girl">
+    <cdWorks:bandname>Black Tape for a Blue Girl</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Beast">
+    <cdWorks:bandname>Beast</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Crvena_Jabuka">
+    <cdWorks:bandname>Crvena Jabuka</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Exodus">
+    <cdWorks:bandname>Exodus</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Chilliwack">
+    <cdWorks:bandname>Chilliwack</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Defiance">
+    <cdWorks:bandname>Defiance</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Apoptygma_Berzerk">
+    <cdWorks:bandname>Apoptygma Berzerk</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Avalon">
+    <cdWorks:bandname>Avalon</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Camper_Van_Beethoven">
+    <cdWorks:bandname>Camper Van Beethoven</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cracker">
+    <cdWorks:bandname>Cracker</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Canned_Heat">
+    <cdWorks:bandname>Canned Heat</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Backyard_Babies">
+    <cdWorks:bandname>Backyard Babies</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fu_Manchu">
+    <cdWorks:bandname>Fu Manchu</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Children_Of_Bodom">
+    <cdWorks:bandname>Children Of Bodom</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blink-182">
+    <cdWorks:bandname>Blink-182</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Air">
+    <cdWorks:bandname>Air</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Enigma">
+    <cdWorks:bandname>Enigma</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Crazy_Horse">
+    <cdWorks:bandname>Crazy Horse</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Babes_in_Toyland">
+    <cdWorks:bandname>Babes in Toyland</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Casting_Crowns">
+    <cdWorks:bandname>Casting Crowns</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Deerhunter">
+    <cdWorks:bandname>Deerhunter</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Face_to_Face">
+    <cdWorks:bandname>Face to Face</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bajaga_i_Instruktori">
+    <cdWorks:bandname>Bajaga i Instruktori</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dragon">
+    <cdWorks:bandname>Dragon</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Burzum">
+    <cdWorks:bandname>Burzum</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gojira">
+    <cdWorks:bandname>Gojira</cdWorks:bandname>
+    <cdWorks:numworks>14</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gomez">
+    <cdWorks:bandname>Gomez</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Counting_Crows">
+    <cdWorks:bandname>Counting Crows</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fourplay">
+    <cdWorks:bandname>Fourplay</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Crowded_House">
+    <cdWorks:bandname>Crowded House</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Birdsongs_of_the_Mesozoic">
+    <cdWorks:bandname>Birdsongs of the Mesozoic</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gorgoroth">
+    <cdWorks:bandname>Gorgoroth</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Girls_Against_Boys">
+    <cdWorks:bandname>Girls Against Boys</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Godsmack">
+    <cdWorks:bandname>Godsmack</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Glass_Hammer">
+    <cdWorks:bandname>Glass Hammer</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dashboard_Confessional">
+    <cdWorks:bandname>Dashboard Confessional</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/B.U.G._Mafia">
+    <cdWorks:bandname>B.U.G. Mafia</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Chevelle">
+    <cdWorks:bandname>Chevelle</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Big_Country">
+    <cdWorks:bandname>Big Country</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Electric_Six">
+    <cdWorks:bandname>Electric Six</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Focus">
+    <cdWorks:bandname>Focus</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/All">
+    <cdWorks:bandname>All</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cold_War_Kids">
+    <cdWorks:bandname>Cold War Kids</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Billy_Talent">
+    <cdWorks:bandname>Billy Talent</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/(həd)_p.e.">
+    <cdWorks:bandname>(həd) p.e.</cdWorks:bandname>
+    <cdWorks:numworks>13</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Doves">
+    <cdWorks:bandname>Doves</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/A_Flock_of_Seagulls">
+    <cdWorks:bandname>A Flock of Seagulls</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/British_Sea_Power">
+    <cdWorks:bandname>British Sea Power</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Asian_Dub_Foundation">
+    <cdWorks:bandname>Asian Dub Foundation</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Collective_Soul">
+    <cdWorks:bandname>Collective Soul</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Diante_do_Trono">
+    <cdWorks:bandname>Diante do Trono</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Buzzcocks">
+    <cdWorks:bandname>Buzzcocks</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Built_to_Spill">
+    <cdWorks:bandname>Built to Spill</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Eisley">
+    <cdWorks:bandname>Eisley</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Elf_Power">
+    <cdWorks:bandname>Elf Power</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/BigBang">
+    <cdWorks:bandname>BigBang</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Front_242">
+    <cdWorks:bandname>Front 242</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Carcass">
+    <cdWorks:bandname>Carcass</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/FM">
+    <cdWorks:bandname>FM</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Avantasia">
+    <cdWorks:bandname>Avantasia</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gang_of_Four">
+    <cdWorks:bandname>Gang of Four</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Culture_Club">
+    <cdWorks:bandname>Culture Club</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Ayreon">
+    <cdWorks:bandname>Ayreon</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Commissioned">
+    <cdWorks:bandname>Commissioned</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gaelic_Storm">
+    <cdWorks:bandname>Gaelic Storm</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Big_Sugar">
+    <cdWorks:bandname>Big Sugar</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Apocalyptica">
+    <cdWorks:bandname>Apocalyptica</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Altan">
+    <cdWorks:bandname>Altan</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blue_October">
+    <cdWorks:bandname>Blue October</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Booker_T._&amp;_the_M.G.&apos;s">
+    <cdWorks:bandname>Booker T. &amp; the M.G.&apos;s</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Crash_Test_Dummies">
+    <cdWorks:bandname>Crash Test Dummies</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Epik_High">
+    <cdWorks:bandname>Epik High</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dead_Kennedys">
+    <cdWorks:bandname>Dead Kennedys</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Deftones">
+    <cdWorks:bandname>Deftones</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dispatch">
+    <cdWorks:bandname>Dispatch</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Faithless">
+    <cdWorks:bandname>Faithless</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Boyzone">
+    <cdWorks:bandname>Boyzone</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dog_Fashion_Disco">
+    <cdWorks:bandname>Dog Fashion Disco</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fra_Lippo_Lippi">
+    <cdWorks:bandname>Fra Lippo Lippi</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Biohazard">
+    <cdWorks:bandname>Biohazard</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Antony_and_the_Johnsons">
+    <cdWorks:bandname>Antony and the Johnsons</cdWorks:bandname>
+    <cdWorks:numworks>12</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Aerodrom">
+    <cdWorks:bandname>Aerodrom</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Ash">
+    <cdWorks:bandname>Ash</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Camouflage">
+    <cdWorks:bandname>Camouflage</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Enanitos_Verdes">
+    <cdWorks:bandname>Enanitos Verdes</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/GOB">
+    <cdWorks:bandname>GOB</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Apocalypse">
+    <cdWorks:bandname>Apocalypse</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Evergrey">
+    <cdWorks:bandname>Evergrey</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Download">
+    <cdWorks:bandname>Download</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cherry_Poppin&apos;_Daddies">
+    <cdWorks:bandname>Cherry Poppin&apos; Daddies</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Between_the_Buried_and_Me">
+    <cdWorks:bandname>Between the Buried and Me</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Eraserheads">
+    <cdWorks:bandname>Eraserheads</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dixie_Chicks">
+    <cdWorks:bandname>Dixie Chicks</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Frenzal_Rhomb">
+    <cdWorks:bandname>Frenzal Rhomb</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Geto_Boys">
+    <cdWorks:bandname>Geto Boys</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Goldfinger">
+    <cdWorks:bandname>Goldfinger</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blonde_Redhead">
+    <cdWorks:bandname>Blonde Redhead</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/36_Crazyfists">
+    <cdWorks:bandname>36 Crazyfists</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fun_Lovin&apos;_Criminals">
+    <cdWorks:bandname>Fun Lovin&apos; Criminals</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Concrete_Blonde">
+    <cdWorks:bandname>Concrete Blonde</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dal_Shabet">
+    <cdWorks:bandname>Dal Shabet</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Elbow">
+    <cdWorks:bandname>Elbow</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Curved_Air">
+    <cdWorks:bandname>Curved Air</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cute">
+    <cdWorks:bandname>Cute</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Flotsam_and_Jetsam">
+    <cdWorks:bandname>Flotsam and Jetsam</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Eric&apos;s_Trip">
+    <cdWorks:bandname>Eric&apos;s Trip</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Garbage">
+    <cdWorks:bandname>Garbage</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Aria">
+    <cdWorks:bandname>Aria</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dover">
+    <cdWorks:bandname>Dover</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/BulletBoys">
+    <cdWorks:bandname>BulletBoys</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Epica">
+    <cdWorks:bandname>Epica</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Disturbed">
+    <cdWorks:bandname>Disturbed</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Big_D_and_the_Kids_Table">
+    <cdWorks:bandname>Big D and the Kids Table</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Darkest_Hour">
+    <cdWorks:bandname>Darkest Hour</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Autopsy">
+    <cdWorks:bandname>Autopsy</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Corrosion_of_Conformity">
+    <cdWorks:bandname>Corrosion of Conformity</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Avail">
+    <cdWorks:bandname>Avail</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Embrace">
+    <cdWorks:bandname>Embrace</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fuel">
+    <cdWorks:bandname>Fuel</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Five_Iron_Frenzy">
+    <cdWorks:bandname>Five Iron Frenzy</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Goldfrapp">
+    <cdWorks:bandname>Goldfrapp</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Anaal_Nathrakh">
+    <cdWorks:bandname>Anaal Nathrakh</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cuca">
+    <cdWorks:bandname>Cuca</cdWorks:bandname>
+    <cdWorks:numworks>11</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Angel">
+    <cdWorks:bandname>Angel</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dirty_Projectors">
+    <cdWorks:bandname>Dirty Projectors</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Better_Than_Ezra">
+    <cdWorks:bandname>Better Than Ezra</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Agoraphobic_Nosebleed">
+    <cdWorks:bandname>Agoraphobic Nosebleed</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Archive">
+    <cdWorks:bandname>Archive</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Arkona">
+    <cdWorks:bandname>Arkona</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/A_Tribe_Called_Quest">
+    <cdWorks:bandname>A Tribe Called Quest</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cindytalk">
+    <cdWorks:bandname>Cindytalk</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bloc_Party">
+    <cdWorks:bandname>Bloc Party</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/+/-">
+    <cdWorks:bandname>+/-</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Carter_the_Unstoppable_Sex_Machine">
+    <cdWorks:bandname>Carter the Unstoppable Sex Machine</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gandalf_Murphy_and_The_Slambovian_Circus_of_Dreams">
+    <cdWorks:bandname>Gandalf Murphy and The Slambovian Circus of Dreams</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bayside">
+    <cdWorks:bandname>Bayside</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Colosseum">
+    <cdWorks:bandname>Colosseum</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Danger_Danger">
+    <cdWorks:bandname>Danger Danger</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Angry_Samoans">
+    <cdWorks:bandname>Angry Samoans</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Comsat_Angels">
+    <cdWorks:bandname>Comsat Angels</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Atomic_Kitten">
+    <cdWorks:bandname>Atomic Kitten</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cave_In">
+    <cdWorks:bandname>Cave In</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Borknagar">
+    <cdWorks:bandname>Borknagar</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Army_of_Lovers">
+    <cdWorks:bandname>Army of Lovers</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dark_Funeral">
+    <cdWorks:bandname>Dark Funeral</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gin_Blossoms">
+    <cdWorks:bandname>Gin Blossoms</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dirty_Three">
+    <cdWorks:bandname>Dirty Three</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Black_&apos;N_Blue">
+    <cdWorks:bandname>Black &apos;N Blue</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Downhere">
+    <cdWorks:bandname>Downhere</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Christian_Death">
+    <cdWorks:bandname>Christian Death</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Avenged_Sevenfold">
+    <cdWorks:bandname>Avenged Sevenfold</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Galneryus">
+    <cdWorks:bandname>Galneryus</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Army_Of_The_Pharaohs">
+    <cdWorks:bandname>Army Of The Pharaohs</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cloud_Cult">
+    <cdWorks:bandname>Cloud Cult</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Asphyx">
+    <cdWorks:bandname>Asphyx</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/3_Doors_Down">
+    <cdWorks:bandname>3 Doors Down</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Eyehategod">
+    <cdWorks:bandname>Eyehategod</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/CAKE">
+    <cdWorks:bandname>CAKE</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/American_Music_Club">
+    <cdWorks:bandname>American Music Club</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/As_I_Lay_Dying">
+    <cdWorks:bandname>As I Lay Dying</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cinderella">
+    <cdWorks:bandname>Cinderella</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Buckcherry">
+    <cdWorks:bandname>Buckcherry</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dark_Moor">
+    <cdWorks:bandname>Dark Moor</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/CKY">
+    <cdWorks:bandname>CKY</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Big_Cyc">
+    <cdWorks:bandname>Big Cyc</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dinosaur_Jr.">
+    <cdWorks:bandname>Dinosaur Jr.</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Flipper">
+    <cdWorks:bandname>Flipper</cdWorks:bandname>
+    <cdWorks:numworks>10</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bond">
+    <cdWorks:bandname>Bond</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/August_Burns_Red">
+    <cdWorks:bandname>August Burns Red</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Arcturus">
+    <cdWorks:bandname>Arcturus</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Demon_Hunter">
+    <cdWorks:bandname>Demon Hunter</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/BTS">
+    <cdWorks:bandname>BTS</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Ben_Folds_Five">
+    <cdWorks:bandname>Ben Folds Five</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dr._Sin">
+    <cdWorks:bandname>Dr. Sin</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cold">
+    <cdWorks:bandname>Cold</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Decapitated">
+    <cdWorks:bandname>Decapitated</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Armored_Saint">
+    <cdWorks:bandname>Armored Saint</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/FireHouse">
+    <cdWorks:bandname>FireHouse</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bay_City_Rollers">
+    <cdWorks:bandname>Bay City Rollers</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fluke">
+    <cdWorks:bandname>Fluke</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Enchant">
+    <cdWorks:bandname>Enchant</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Elvenking">
+    <cdWorks:bandname>Elvenking</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bring_Me_the_Horizon">
+    <cdWorks:bandname>Bring Me the Horizon</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Aiden">
+    <cdWorks:bandname>Aiden</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Chrome">
+    <cdWorks:bandname>Chrome</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gang_Green">
+    <cdWorks:bandname>Gang Green</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Choirboys">
+    <cdWorks:bandname>Choirboys</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/3">
+    <cdWorks:bandname>3</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Alias">
+    <cdWorks:bandname>Alias</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Emperor">
+    <cdWorks:bandname>Emperor</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Circus_Devils">
+    <cdWorks:bandname>Circus Devils</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Flogging_Molly">
+    <cdWorks:bandname>Flogging Molly</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cul_de_Sac">
+    <cdWorks:bandname>Cul de Sac</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Eluveitie">
+    <cdWorks:bandname>Eluveitie</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Clem_Snide">
+    <cdWorks:bandname>Clem Snide</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Every_Time_I_Die">
+    <cdWorks:bandname>Every Time I Die</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Family">
+    <cdWorks:bandname>Family</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Battles">
+    <cdWorks:bandname>Battles</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Brand_X">
+    <cdWorks:bandname>Brand X</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/At_the_Gates">
+    <cdWorks:bandname>At the Gates</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bellowhead">
+    <cdWorks:bandname>Bellowhead</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Black_Rebel_Motorcycle_Club">
+    <cdWorks:bandname>Black Rebel Motorcycle Club</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dzeltenie_Pastnieki">
+    <cdWorks:bandname>Dzeltenie Pastnieki</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cryptopsy">
+    <cdWorks:bandname>Cryptopsy</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Assemblage_23">
+    <cdWorks:bandname>Assemblage 23</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Firewind">
+    <cdWorks:bandname>Firewind</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gallon_Drunk">
+    <cdWorks:bandname>Gallon Drunk</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/All_Time_Low">
+    <cdWorks:bandname>All Time Low</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Field_Music">
+    <cdWorks:bandname>Field Music</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Godhead">
+    <cdWorks:bandname>Godhead</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Alabama_3">
+    <cdWorks:bandname>Alabama 3</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/24-7_Spyz">
+    <cdWorks:bandname>24-7 Spyz</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Carter_Family">
+    <cdWorks:bandname>Carter Family</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Alcest">
+    <cdWorks:bandname>Alcest</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Benediction">
+    <cdWorks:bandname>Benediction</cdWorks:bandname>
+    <cdWorks:numworks>9</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Breaking_Benjamin">
+    <cdWorks:bandname>Breaking Benjamin</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/At_the_Drive-In">
+    <cdWorks:bandname>At the Drive-In</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Aterciopelados">
+    <cdWorks:bandname>Aterciopelados</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cloven_Hoof">
+    <cdWorks:bandname>Cloven Hoof</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Falconer">
+    <cdWorks:bandname>Falconer</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bomb_the_Music_Industry!">
+    <cdWorks:bandname>Bomb the Music Industry!</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Finntroll">
+    <cdWorks:bandname>Finntroll</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Frightened_Rabbit">
+    <cdWorks:bandname>Frightened Rabbit</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Confederate_Railroad">
+    <cdWorks:bandname>Confederate Railroad</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dungen">
+    <cdWorks:bandname>Dungen</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dream_Evil">
+    <cdWorks:bandname>Dream Evil</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/(VIA_Gra)">
+    <cdWorks:bandname>(VIA Gra)</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Crosby,_Stills,_Nash_&amp;_Young">
+    <cdWorks:bandname>Crosby, Stills, Nash &amp; Young</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cephalic_Carnage">
+    <cdWorks:bandname>Cephalic Carnage</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/All_Saints">
+    <cdWorks:bandname>All Saints</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Down_by_Law">
+    <cdWorks:bandname>Down by Law</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Belanova">
+    <cdWorks:bandname>Belanova</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Aventura">
+    <cdWorks:bandname>Aventura</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Filter">
+    <cdWorks:bandname>Filter</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Drowning_Pool">
+    <cdWorks:bandname>Drowning Pool</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/D.I.">
+    <cdWorks:bandname>D.I.</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Barnes_&amp;_Barnes">
+    <cdWorks:bandname>Barnes &amp; Barnes</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Delain">
+    <cdWorks:bandname>Delain</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/A1">
+    <cdWorks:bandname>A1</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Clannad">
+    <cdWorks:bandname>Clannad</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Franz_Ferdinand">
+    <cdWorks:bandname>Franz Ferdinand</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/A_Day_to_Remember">
+    <cdWorks:bandname>A Day to Remember</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Alexisonfire">
+    <cdWorks:bandname>Alexisonfire</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fozzy">
+    <cdWorks:bandname>Fozzy</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Death_in_Vegas">
+    <cdWorks:bandname>Death in Vegas</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Do_or_Die">
+    <cdWorks:bandname>Do or Die</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fields_of_the_Nephilim">
+    <cdWorks:bandname>Fields of the Nephilim</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Ensiferum">
+    <cdWorks:bandname>Ensiferum</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Abney_Park">
+    <cdWorks:bandname>Abney Park</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Barclay_James_Harvest">
+    <cdWorks:bandname>Barclay James Harvest</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Frog_Eyes">
+    <cdWorks:bandname>Frog Eyes</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fosca">
+    <cdWorks:bandname>Fosca</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/AAA">
+    <cdWorks:bandname>AAA</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Big_&amp;_Rich">
+    <cdWorks:bandname>Big &amp; Rich</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/7_Seconds">
+    <cdWorks:bandname>7 Seconds</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/De_Magia_Veterum">
+    <cdWorks:bandname>De Magia Veterum</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/DevilDriver">
+    <cdWorks:bandname>DevilDriver</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Goodbye_Mr._Mackenzie">
+    <cdWorks:bandname>Goodbye Mr. Mackenzie</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Faster_Pussycat">
+    <cdWorks:bandname>Faster Pussycat</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Braid">
+    <cdWorks:bandname>Braid</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Galactic">
+    <cdWorks:bandname>Galactic</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Captain_&amp;_Tennille">
+    <cdWorks:bandname>Captain &amp; Tennille</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Further_Seems_Forever">
+    <cdWorks:bandname>Further Seems Forever</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Crime_&amp;_the_City_Solution">
+    <cdWorks:bandname>Crime &amp; the City Solution</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Del_Amitri">
+    <cdWorks:bandname>Del Amitri</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Chastain">
+    <cdWorks:bandname>Chastain</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gehenna">
+    <cdWorks:bandname>Gehenna</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Asking_Alexandria">
+    <cdWorks:bandname>Asking Alexandria</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Alter_Bridge">
+    <cdWorks:bandname>Alter Bridge</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Don_Caballero">
+    <cdWorks:bandname>Don Caballero</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bloodbath">
+    <cdWorks:bandname>Bloodbath</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Arctic_Monkeys">
+    <cdWorks:bandname>Arctic Monkeys</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Beat_Happening">
+    <cdWorks:bandname>Beat Happening</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Barrabás">
+    <cdWorks:bandname>Barrabás</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dexys">
+    <cdWorks:bandname>Dexys</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dum_Dum_Girls">
+    <cdWorks:bandname>Dum Dum Girls</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/7L_&amp;_Esoteric">
+    <cdWorks:bandname>7L &amp; Esoteric</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Death_Grips">
+    <cdWorks:bandname>Death Grips</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Beirut">
+    <cdWorks:bandname>Beirut</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Deus">
+    <cdWorks:bandname>Deus</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/All_That_Remains">
+    <cdWorks:bandname>All That Remains</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Archers_of_Loaf">
+    <cdWorks:bandname>Archers of Loaf</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bell_X1">
+    <cdWorks:bandname>Bell X1</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blue">
+    <cdWorks:bandname>Blue</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Finger_Eleven">
+    <cdWorks:bandname>Finger Eleven</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Above_the_Law">
+    <cdWorks:bandname>Above the Law</cdWorks:bandname>
+    <cdWorks:numworks>8</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Enthroned">
+    <cdWorks:bandname>Enthroned</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blackmail">
+    <cdWorks:bandname>Blackmail</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dreams_Come_True">
+    <cdWorks:bandname>Dreams Come True</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Acid_King">
+    <cdWorks:bandname>Acid King</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Almafuerte">
+    <cdWorks:bandname>Almafuerte</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blood_For_Blood">
+    <cdWorks:bandname>Blood For Blood</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/EPMD">
+    <cdWorks:bandname>EPMD</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/D.A.F.">
+    <cdWorks:bandname>D.A.F.</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Buffalo_Tom">
+    <cdWorks:bandname>Buffalo Tom</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cuff_the_Duke">
+    <cdWorks:bandname>Cuff the Duke</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Aqua">
+    <cdWorks:bandname>Aqua</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Clawfinger">
+    <cdWorks:bandname>Clawfinger</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Boston">
+    <cdWorks:bandname>Boston</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Extol">
+    <cdWorks:bandname>Extol</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Augie_March">
+    <cdWorks:bandname>Augie March</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/An_Cafe">
+    <cdWorks:bandname>An Cafe</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bleach">
+    <cdWorks:bandname>Bleach</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dr._Feelgood">
+    <cdWorks:bandname>Dr. Feelgood</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Black_Dice">
+    <cdWorks:bandname>Black Dice</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Death_in_June">
+    <cdWorks:bandname>Death in June</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Afro_Celt_Sound_System">
+    <cdWorks:bandname>Afro Celt Sound System</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bow_Wow">
+    <cdWorks:bandname>Bow Wow</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Baroness">
+    <cdWorks:bandname>Baroness</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fastball">
+    <cdWorks:bandname>Fastball</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fila_Brazillia">
+    <cdWorks:bandname>Fila Brazillia</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Eddie_and_the_Hot_Rods">
+    <cdWorks:bandname>Eddie and the Hot Rods</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Babymetal">
+    <cdWorks:bandname>Babymetal</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Freda&apos;">
+    <cdWorks:bandname>Freda&apos;</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fokofpolisiekar">
+    <cdWorks:bandname>Fokofpolisiekar</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Flo_&amp;_Eddie">
+    <cdWorks:bandname>Flo &amp; Eddie</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Andre">
+    <cdWorks:bandname>Andre</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Black_Moth_Super_Rainbow">
+    <cdWorks:bandname>Black Moth Super Rainbow</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Five_Finger_Death_Punch">
+    <cdWorks:bandname>Five Finger Death Punch</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/2NE1">
+    <cdWorks:bandname>2NE1</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Angels_of_Light">
+    <cdWorks:bandname>Angels of Light</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cancer_Bats">
+    <cdWorks:bandname>Cancer Bats</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cartel">
+    <cdWorks:bandname>Cartel</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Do_Make_Say_Think">
+    <cdWorks:bandname>Do Make Say Think</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Circa_Survive">
+    <cdWorks:bandname>Circa Survive</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cosmic_Gate">
+    <cdWorks:bandname>Cosmic Gate</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gaither_Vocal_Band">
+    <cdWorks:bandname>Gaither Vocal Band</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Failure">
+    <cdWorks:bandname>Failure</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/From_Autumn_to_Ashes">
+    <cdWorks:bandname>From Autumn to Ashes</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Amen">
+    <cdWorks:bandname>Amen</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Client">
+    <cdWorks:bandname>Client</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Brand_Nubian">
+    <cdWorks:bandname>Brand Nubian</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/GOT7">
+    <cdWorks:bandname>GOT7</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Anekdoten">
+    <cdWorks:bandname>Anekdoten</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Aura_Noir">
+    <cdWorks:bandname>Aura Noir</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Autograph">
+    <cdWorks:bandname>Autograph</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/DragonForce">
+    <cdWorks:bandname>DragonForce</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Falkenbach">
+    <cdWorks:bandname>Falkenbach</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Avengers">
+    <cdWorks:bandname>Avengers</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Custard">
+    <cdWorks:bandname>Custard</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Erste_Allgemeine_Verunsicherung">
+    <cdWorks:bandname>Erste Allgemeine Verunsicherung</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Antimatter">
+    <cdWorks:bandname>Antimatter</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Block_Out">
+    <cdWorks:bandname>Block Out</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Babylon_Whores">
+    <cdWorks:bandname>Babylon Whores</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Era">
+    <cdWorks:bandname>Era</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Arab_Strap">
+    <cdWorks:bandname>Arab Strap</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Candlebox">
+    <cdWorks:bandname>Candlebox</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Abscess">
+    <cdWorks:bandname>Abscess</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Godspeed_You!_Black_Emperor">
+    <cdWorks:bandname>Godspeed You! Black Emperor</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Constantines">
+    <cdWorks:bandname>Constantines</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cop_Shoot_Cop">
+    <cdWorks:bandname>Cop Shoot Cop</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Escape_the_Fate">
+    <cdWorks:bandname>Escape the Fate</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Angels_&amp;_Airwaves">
+    <cdWorks:bandname>Angels &amp; Airwaves</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bane">
+    <cdWorks:bandname>Bane</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Brujeria">
+    <cdWorks:bandname>Brujeria</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Big_Brother_and_the_Holding_Company">
+    <cdWorks:bandname>Big Brother and the Holding Company</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Brand_New">
+    <cdWorks:bandname>Brand New</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Crystal_Castles">
+    <cdWorks:bandname>Crystal Castles</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Coal_Chamber">
+    <cdWorks:bandname>Coal Chamber</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blind_Melon">
+    <cdWorks:bandname>Blind Melon</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Average_White_Band">
+    <cdWorks:bandname>Average White Band</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Creed">
+    <cdWorks:bandname>Creed</cdWorks:bandname>
+    <cdWorks:numworks>7</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Amberian_Dawn">
+    <cdWorks:bandname>Amberian Dawn</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Boss_Hog">
+    <cdWorks:bandname>Boss Hog</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bury_Your_Dead">
+    <cdWorks:bandname>Bury Your Dead</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Carnal_Forge">
+    <cdWorks:bandname>Carnal Forge</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Coma">
+    <cdWorks:bandname>Coma</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Critters_Buggin">
+    <cdWorks:bandname>Critters Buggin</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Adolescents">
+    <cdWorks:bandname>Adolescents</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Enuff_Z&apos;Nuff">
+    <cdWorks:bandname>Enuff Z&apos;Nuff</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Circle_II_Circle">
+    <cdWorks:bandname>Circle II Circle</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cross_Canadian_Ragweed">
+    <cdWorks:bandname>Cross Canadian Ragweed</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Glassjaw">
+    <cdWorks:bandname>Glassjaw</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Brewer_&amp;_Shipley">
+    <cdWorks:bandname>Brewer &amp; Shipley</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/28_Days">
+    <cdWorks:bandname>28 Days</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Die_Antwoord">
+    <cdWorks:bandname>Die Antwoord</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Adema">
+    <cdWorks:bandname>Adema</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Chicken_Shack">
+    <cdWorks:bandname>Chicken Shack</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cast">
+    <cdWorks:bandname>Cast</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fito_&amp;_Fitipaldis">
+    <cdWorks:bandname>Fito &amp; Fitipaldis</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cowboy_Mouth">
+    <cdWorks:bandname>Cowboy Mouth</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Easy_Star_All-Stars">
+    <cdWorks:bandname>Easy Star All-Stars</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Euphoria">
+    <cdWorks:bandname>Euphoria</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/George">
+    <cdWorks:bandname>George</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Chuck_Ragan">
+    <cdWorks:bandname>Chuck Ragan</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blacklisted">
+    <cdWorks:bandname>Blacklisted</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Arena">
+    <cdWorks:bandname>Arena</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/A">
+    <cdWorks:bandname>A</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Asian_Kung-Fu_Generation">
+    <cdWorks:bandname>Asian Kung-Fu Generation</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/A_Skylit_Drive">
+    <cdWorks:bandname>A Skylit Drive</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bal-Sagoth">
+    <cdWorks:bandname>Bal-Sagoth</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Eisbrecher">
+    <cdWorks:bandname>Eisbrecher</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Brazzaville">
+    <cdWorks:bandname>Brazzaville</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Copeland">
+    <cdWorks:bandname>Copeland</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/CLC_(CrystaL_Clear)">
+    <cdWorks:bandname>CLC (CrystaL Clear)</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Frankenstein_Drag_Queens">
+    <cdWorks:bandname>Frankenstein Drag Queens</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fightstar">
+    <cdWorks:bandname>Fightstar</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Caesars">
+    <cdWorks:bandname>Caesars</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Frost">
+    <cdWorks:bandname>Frost</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Brad">
+    <cdWorks:bandname>Brad</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/D.O.A.">
+    <cdWorks:bandname>D.O.A.</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Allister">
+    <cdWorks:bandname>Allister</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/A_Perfect_Circle">
+    <cdWorks:bandname>A Perfect Circle</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Atrocity">
+    <cdWorks:bandname>Atrocity</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Go_West">
+    <cdWorks:bandname>Go West</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/All_Star_United">
+    <cdWorks:bandname>All Star United</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Down">
+    <cdWorks:bandname>Down</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Breed_77">
+    <cdWorks:bandname>Breed 77</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Brinsley_Schwarz">
+    <cdWorks:bandname>Brinsley Schwarz</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dreadzone">
+    <cdWorks:bandname>Dreadzone</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cactus">
+    <cdWorks:bandname>Cactus</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Daughtry">
+    <cdWorks:bandname>Daughtry</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fountains_of_Wayne">
+    <cdWorks:bandname>Fountains of Wayne</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Balance_of_Power">
+    <cdWorks:bandname>Balance of Power</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Editors">
+    <cdWorks:bandname>Editors</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fight_Like_Apes">
+    <cdWorks:bandname>Fight Like Apes</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Comes_with_the_Fall">
+    <cdWorks:bandname>Comes with the Fall</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dizzy_Mizz_Lizzy">
+    <cdWorks:bandname>Dizzy Mizz Lizzy</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/AOA_(Ace_of_Angels)">
+    <cdWorks:bandname>AOA (Ace of Angels)</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Arcade_Fire">
+    <cdWorks:bandname>Arcade Fire</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fink">
+    <cdWorks:bandname>Fink</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Foals">
+    <cdWorks:bandname>Foals</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fridge">
+    <cdWorks:bandname>Fridge</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/98_Degrees">
+    <cdWorks:bandname>98 Degrees</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blue_Mountain">
+    <cdWorks:bandname>Blue Mountain</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Buono!">
+    <cdWorks:bandname>Buono!</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/2AM">
+    <cdWorks:bandname>2AM</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dope">
+    <cdWorks:bandname>Dope</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Evermore">
+    <cdWorks:bandname>Evermore</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Amaranthe">
+    <cdWorks:bandname>Amaranthe</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Black_Tide">
+    <cdWorks:bandname>Black Tide</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Carpathian_Forest">
+    <cdWorks:bandname>Carpathian Forest</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Faith_and_the_Muse">
+    <cdWorks:bandname>Faith and the Muse</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Ducktails">
+    <cdWorks:bandname>Ducktails</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Arrogance">
+    <cdWorks:bandname>Arrogance</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Biff_Bang_Pow!">
+    <cdWorks:bandname>Biff Bang Pow!</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Destiny">
+    <cdWorks:bandname>Destiny</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/200px">
+    <cdWorks:bandname>200px</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/American_Hi-Fi">
+    <cdWorks:bandname>American Hi-Fi</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/3_Inches_of_Blood">
+    <cdWorks:bandname>3 Inches of Blood</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Busted">
+    <cdWorks:bandname>Busted</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blackalicious">
+    <cdWorks:bandname>Blackalicious</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Frontier_Ruckus">
+    <cdWorks:bandname>Frontier Ruckus</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Babyshambles">
+    <cdWorks:bandname>Babyshambles</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Compton&apos;s_Most_Wanted">
+    <cdWorks:bandname>Compton&apos;s Most Wanted</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cibo_Matto">
+    <cdWorks:bandname>Cibo Matto</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Courteeners">
+    <cdWorks:bandname>Courteeners</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Elliott">
+    <cdWorks:bandname>Elliott</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fastway">
+    <cdWorks:bandname>Fastway</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Exciter">
+    <cdWorks:bandname>Exciter</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cascada">
+    <cdWorks:bandname>Cascada</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/1349">
+    <cdWorks:bandname>1349</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/CSS">
+    <cdWorks:bandname>CSS</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Band_of_Horses">
+    <cdWorks:bandname>Band of Horses</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bulldozer">
+    <cdWorks:bandname>Bulldozer</cdWorks:bandname>
+    <cdWorks:numworks>6</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Calla">
+    <cdWorks:bandname>Calla</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Charon">
+    <cdWorks:bandname>Charon</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Audience">
+    <cdWorks:bandname>Audience</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/From_First_to_Last">
+    <cdWorks:bandname>From First to Last</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Colonial_Cousins">
+    <cdWorks:bandname>Colonial Cousins</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/G-Unit">
+    <cdWorks:bandname>G-Unit</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Deliverance">
+    <cdWorks:bandname>Deliverance</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Centro-matic">
+    <cdWorks:bandname>Centro-matic</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bonde_da_Stronda">
+    <cdWorks:bandname>Bonde da Stronda</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Florence_and_the_Machine">
+    <cdWorks:bandname>Florence and the Machine</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fleshtones">
+    <cdWorks:bandname>Fleshtones</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cog">
+    <cdWorks:bandname>Cog</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/E_Street_Band">
+    <cdWorks:bandname>E Street Band</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Decyfer_Down">
+    <cdWorks:bandname>Decyfer Down</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Athlete">
+    <cdWorks:bandname>Athlete</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Balkan_Beat_Box">
+    <cdWorks:bandname>Balkan Beat Box</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Global_Communication">
+    <cdWorks:bandname>Global Communication</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Betzefer">
+    <cdWorks:bandname>Betzefer</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blessthefall">
+    <cdWorks:bandname>Blessthefall</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Entwine">
+    <cdWorks:bandname>Entwine</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Clap_Your_Hands_Say_Yeah">
+    <cdWorks:bandname>Clap Your Hands Say Yeah</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Apollo_440">
+    <cdWorks:bandname>Apollo 440</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Deine_Lakaien">
+    <cdWorks:bandname>Deine Lakaien</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/D:Ream">
+    <cdWorks:bandname>D:Ream</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blackfield">
+    <cdWorks:bandname>Blackfield</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Beto_Vazquez_Infinity">
+    <cdWorks:bandname>Beto Vazquez Infinity</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fear">
+    <cdWorks:bandname>Fear</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/285px">
+    <cdWorks:bandname>285px</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Divinefire">
+    <cdWorks:bandname>Divinefire</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Amoral">
+    <cdWorks:bandname>Amoral</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Boot_Camp_Clik">
+    <cdWorks:bandname>Boot Camp Clik</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Econoline_Crush">
+    <cdWorks:bandname>Econoline Crush</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Belly">
+    <cdWorks:bandname>Belly</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/EMF">
+    <cdWorks:bandname>EMF</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Berlin">
+    <cdWorks:bandname>Berlin</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Alogia">
+    <cdWorks:bandname>Alogia</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dilated_Peoples">
+    <cdWorks:bandname>Dilated Peoples</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gallows">
+    <cdWorks:bandname>Gallows</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cynic">
+    <cdWorks:bandname>Cynic</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cerebral_Ballzy">
+    <cdWorks:bandname>Cerebral Ballzy</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/112">
+    <cdWorks:bandname>112</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/911">
+    <cdWorks:bandname>911</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Calle_13">
+    <cdWorks:bandname>Calle 13</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Angus_&amp;_Julia_Stone">
+    <cdWorks:bandname>Angus &amp; Julia Stone</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Clan_of_Xymox">
+    <cdWorks:bandname>Clan of Xymox</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Azure_Ray">
+    <cdWorks:bandname>Azure Ray</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Edward_Sharpe_and_the_Magnetic_Zeros">
+    <cdWorks:bandname>Edward Sharpe and the Magnetic Zeros</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Confide">
+    <cdWorks:bandname>Confide</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dark_Angel">
+    <cdWorks:bandname>Dark Angel</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dru_Hill">
+    <cdWorks:bandname>Dru Hill</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Black_Veil_Brides">
+    <cdWorks:bandname>Black Veil Brides</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dionysos">
+    <cdWorks:bandname>Dionysos</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dada">
+    <cdWorks:bandname>Dada</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dysrhythmia">
+    <cdWorks:bandname>Dysrhythmia</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Darkspace">
+    <cdWorks:bandname>Darkspace</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Electrelane">
+    <cdWorks:bandname>Electrelane</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Death_from_Above_1979">
+    <cdWorks:bandname>Death from Above 1979</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Day_After_Tomorrow">
+    <cdWorks:bandname>Day After Tomorrow</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Deafheaven">
+    <cdWorks:bandname>Deafheaven</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Death_of_Samantha">
+    <cdWorks:bandname>Death of Samantha</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dressy_Bessy">
+    <cdWorks:bandname>Dressy Bessy</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Enon">
+    <cdWorks:bandname>Enon</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Die_Apokalyptischen_Reiter">
+    <cdWorks:bandname>Die Apokalyptischen Reiter</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Flight_of_the_Conchords">
+    <cdWorks:bandname>Flight of the Conchords</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/BiS">
+    <cdWorks:bandname>BiS</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/BLACKstreet">
+    <cdWorks:bandname>BLACKstreet</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gangrene">
+    <cdWorks:bandname>Gangrene</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Flobots">
+    <cdWorks:bandname>Flobots</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Boxhead_Ensemble">
+    <cdWorks:bandname>Boxhead Ensemble</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Altaria">
+    <cdWorks:bandname>Altaria</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Broken_Social_Scene">
+    <cdWorks:bandname>Broken Social Scene</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Disciplin_A_Kitschme">
+    <cdWorks:bandname>Disciplin A Kitschme</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Freestyle_Fellowship">
+    <cdWorks:bandname>Freestyle Fellowship</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Beach_House">
+    <cdWorks:bandname>Beach House</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/G._Love_&amp;_Special_Sauce">
+    <cdWorks:bandname>G. Love &amp; Special Sauce</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Free_Kitten">
+    <cdWorks:bandname>Free Kitten</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Chromatics">
+    <cdWorks:bandname>Chromatics</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Crystal_Stilts">
+    <cdWorks:bandname>Crystal Stilts</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fruit_Bats">
+    <cdWorks:bandname>Fruit Bats</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Eternal">
+    <cdWorks:bandname>Eternal</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dreamtale">
+    <cdWorks:bandname>Dreamtale</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Atheist">
+    <cdWorks:bandname>Atheist</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Air_Liquide">
+    <cdWorks:bandname>Air Liquide</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Britny_Fox">
+    <cdWorks:bandname>Britny Fox</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Death_by_Stereo">
+    <cdWorks:bandname>Death by Stereo</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Body_Count">
+    <cdWorks:bandname>Body Count</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Excel">
+    <cdWorks:bandname>Excel</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Golden_Smog">
+    <cdWorks:bandname>Golden Smog</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Boston_Spaceships">
+    <cdWorks:bandname>Boston Spaceships</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/DC_Talk">
+    <cdWorks:bandname>DC Talk</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fiction_Plane">
+    <cdWorks:bandname>Fiction Plane</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/As_Fast_As">
+    <cdWorks:bandname>As Fast As</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cro-Mags">
+    <cdWorks:bandname>Cro-Mags</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Glass_Tiger">
+    <cdWorks:bandname>Glass Tiger</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dag_Nasty">
+    <cdWorks:bandname>Dag Nasty</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gesu_no_Kiwami_Otome">
+    <cdWorks:bandname>Gesu no Kiwami Otome</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Before_Their_Eyes">
+    <cdWorks:bandname>Before Their Eyes</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Eternal_Tears_of_Sorrow">
+    <cdWorks:bandname>Eternal Tears of Sorrow</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bow_Wow_Wow">
+    <cdWorks:bandname>Bow Wow Wow</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Ebba_Grön">
+    <cdWorks:bandname>Ebba Grön</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dragonland">
+    <cdWorks:bandname>Dragonland</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Avalanch">
+    <cdWorks:bandname>Avalanch</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Capone-N-Noreaga">
+    <cdWorks:bandname>Capone-N-Noreaga</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Baby_Animals">
+    <cdWorks:bandname>Baby Animals</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Adagio">
+    <cdWorks:bandname>Adagio</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/A_Place_to_Bury_Strangers">
+    <cdWorks:bandname>A Place to Bury Strangers</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bros">
+    <cdWorks:bandname>Bros</cdWorks:bandname>
+    <cdWorks:numworks>5</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fleet_Foxes">
+    <cdWorks:bandname>Fleet Foxes</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Die_Mannequin">
+    <cdWorks:bandname>Die Mannequin</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Ghoul">
+    <cdWorks:bandname>Ghoul</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/2Cellos">
+    <cdWorks:bandname>2Cellos</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Datarock">
+    <cdWorks:bandname>Datarock</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dragonette">
+    <cdWorks:bandname>Dragonette</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dot_Hacker">
+    <cdWorks:bandname>Dot Hacker</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Crashdïet">
+    <cdWorks:bandname>Crashdïet</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/16-17">
+    <cdWorks:bandname>16-17</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cadaver">
+    <cdWorks:bandname>Cadaver</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Die!_Die!_Die!">
+    <cdWorks:bandname>Die! Die! Die!</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dead_Poetic">
+    <cdWorks:bandname>Dead Poetic</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/1200_Micrograms">
+    <cdWorks:bandname>1200 Micrograms</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bôa">
+    <cdWorks:bandname>Bôa</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Daughters">
+    <cdWorks:bandname>Daughters</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Ahab">
+    <cdWorks:bandname>Ahab</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dolour">
+    <cdWorks:bandname>Dolour</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dodgy">
+    <cdWorks:bandname>Dodgy</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blue_Peter">
+    <cdWorks:bandname>Blue Peter</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fitz_and_The_Tantrums">
+    <cdWorks:bandname>Fitz and The Tantrums</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Beowülf">
+    <cdWorks:bandname>Beowülf</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Alcazar">
+    <cdWorks:bandname>Alcazar</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/E-Rotic">
+    <cdWorks:bandname>E-Rotic</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/And_Also_the_Trees">
+    <cdWorks:bandname>And Also the Trees</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Espers">
+    <cdWorks:bandname>Espers</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Burden_Brothers">
+    <cdWorks:bandname>Burden Brothers</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Evil_Masquerade">
+    <cdWorks:bandname>Evil Masquerade</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Braids">
+    <cdWorks:bandname>Braids</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Evile">
+    <cdWorks:bandname>Evile</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cerebral_Fix">
+    <cdWorks:bandname>Cerebral Fix</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Communic">
+    <cdWorks:bandname>Communic</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Airbourne">
+    <cdWorks:bandname>Airbourne</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Disgorge">
+    <cdWorks:bandname>Disgorge</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Detonautas_Roque_Clube">
+    <cdWorks:bandname>Detonautas Roque Clube</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Comets_on_Fire">
+    <cdWorks:bandname>Comets on Fire</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Flying_Colors">
+    <cdWorks:bandname>Flying Colors</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Evans_Blue">
+    <cdWorks:bandname>Evans Blue</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Ava_Inferi">
+    <cdWorks:bandname>Ava Inferi</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Burning_Brides">
+    <cdWorks:bandname>Burning Brides</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Faun_Fables">
+    <cdWorks:bandname>Faun Fables</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Days_of_the_New">
+    <cdWorks:bandname>Days of the New</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dark_Lotus">
+    <cdWorks:bandname>Dark Lotus</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Captain_Beyond">
+    <cdWorks:bandname>Captain Beyond</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Acoustic_Ladyland">
+    <cdWorks:bandname>Acoustic Ladyland</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Armor_for_Sleep">
+    <cdWorks:bandname>Armor for Sleep</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Friends">
+    <cdWorks:bandname>Friends</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Easyworld">
+    <cdWorks:bandname>Easyworld</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blackhawk">
+    <cdWorks:bandname>Blackhawk</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Default">
+    <cdWorks:bandname>Default</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Chelsea">
+    <cdWorks:bandname>Chelsea</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/5ive">
+    <cdWorks:bandname>5ive</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/GANGgajang">
+    <cdWorks:bandname>GANGgajang</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Brother_Firetribe">
+    <cdWorks:bandname>Brother Firetribe</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Chainsaw_Kittens">
+    <cdWorks:bandname>Chainsaw Kittens</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/BeBe_&amp;_CeCe_Winans">
+    <cdWorks:bandname>BeBe &amp; CeCe Winans</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Aomusic">
+    <cdWorks:bandname>Aomusic</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Eagles_of_Death_Metal">
+    <cdWorks:bandname>Eagles of Death Metal</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Disfear">
+    <cdWorks:bandname>Disfear</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Andromeda">
+    <cdWorks:bandname>Andromeda</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Alcatrazz">
+    <cdWorks:bandname>Alcatrazz</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Figurine">
+    <cdWorks:bandname>Figurine</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bon_Iver">
+    <cdWorks:bandname>Bon Iver</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dubstar">
+    <cdWorks:bandname>Dubstar</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dimension_Zero">
+    <cdWorks:bandname>Dimension Zero</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Farmer_Boys">
+    <cdWorks:bandname>Farmer Boys</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cosmic_Nomads">
+    <cdWorks:bandname>Cosmic Nomads</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Archie_Bell_&amp;_the_Drells">
+    <cdWorks:bandname>Archie Bell &amp; the Drells</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bethel_Music">
+    <cdWorks:bandname>Bethel Music</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Exposé">
+    <cdWorks:bandname>Exposé</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Conception">
+    <cdWorks:bandname>Conception</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bedouin_Soundclash">
+    <cdWorks:bandname>Bedouin Soundclash</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Crooked_Still">
+    <cdWorks:bandname>Crooked Still</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Chick_Corea_Elektric_Band">
+    <cdWorks:bandname>Chick Corea Elektric Band</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dave_Matthews_and_Tim_Reynolds">
+    <cdWorks:bandname>Dave Matthews and Tim Reynolds</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Amber_Smith">
+    <cdWorks:bandname>Amber Smith</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Flamin&apos;_Groovies">
+    <cdWorks:bandname>Flamin&apos; Groovies</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bombay_Rockers">
+    <cdWorks:bandname>Bombay Rockers</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cock_Robin">
+    <cdWorks:bandname>Cock Robin</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Big_Wreck">
+    <cdWorks:bandname>Big Wreck</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Engineers">
+    <cdWorks:bandname>Engineers</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Diablo_Swing_Orchestra">
+    <cdWorks:bandname>Diablo Swing Orchestra</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Ancient">
+    <cdWorks:bandname>Ancient</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Germs">
+    <cdWorks:bandname>Germs</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Doomtree">
+    <cdWorks:bandname>Doomtree</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Genitorturers">
+    <cdWorks:bandname>Genitorturers</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Black_Country_Communion">
+    <cdWorks:bandname>Black Country Communion</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Dark_New_Day">
+    <cdWorks:bandname>Dark New Day</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Emanuel_and_the_Fear">
+    <cdWorks:bandname>Emanuel and the Fear</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cubanate">
+    <cdWorks:bandname>Cubanate</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Cage_the_Elephant">
+    <cdWorks:bandname>Cage the Elephant</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Foster_&amp;_Lloyd">
+    <cdWorks:bandname>Foster &amp; Lloyd</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Biomechanical">
+    <cdWorks:bandname>Biomechanical</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Coldcut">
+    <cdWorks:bandname>Coldcut</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Alternative_TV">
+    <cdWorks:bandname>Alternative TV</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Closet_Monster">
+    <cdWorks:bandname>Closet Monster</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Gabriel_&amp;_Dresden">
+    <cdWorks:bandname>Gabriel &amp; Dresden</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Brighton_Rock">
+    <cdWorks:bandname>Brighton Rock</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Fat_Freddy&apos;s_Drop">
+    <cdWorks:bandname>Fat Freddy&apos;s Drop</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Altamont">
+    <cdWorks:bandname>Altamont</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Diabolical_Masquerade">
+    <cdWorks:bandname>Diabolical Masquerade</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Agent_Steel">
+    <cdWorks:bandname>Agent Steel</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blue_Murder">
+    <cdWorks:bandname>Blue Murder</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/CAB">
+    <cdWorks:bandname>CAB</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Bell_Biv_DeVoe">
+    <cdWorks:bandname>Bell Biv DeVoe</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Brown_Eyed_Girls">
+    <cdWorks:bandname>Brown Eyed Girls</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Florida_Georgia_Line">
+    <cdWorks:bandname>Florida Georgia Line</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Blind_Idiot_God">
+    <cdWorks:bandname>Blind Idiot God</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Exo">
+    <cdWorks:bandname>Exo</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.best.groups/cdWorks/Burnt_by_the_Sun">
+    <cdWorks:bandname>Burnt by the Sun</cdWorks:bandname>
+    <cdWorks:numworks>4</cdWorks:numworks>
+  </rdf:Description>
+</rdf:RDF>
