@@ -21,6 +21,7 @@ public class MusicRESTClient {
 	private static final ArrayList<String> queries = new ArrayList<String>() {{
 		add("genre/rock|Select bands of a given genre");
 		add("bandsByGenre/rock|Count bands of a given genre");
+		add("hometown/Hertford|Count bands of a given hometown");
 	}};
 	
 
