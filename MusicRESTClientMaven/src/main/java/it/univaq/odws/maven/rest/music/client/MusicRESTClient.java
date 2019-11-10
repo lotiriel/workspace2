@@ -21,7 +21,8 @@ public class MusicRESTClient {
 	private static final ArrayList<String> queries = new ArrayList<String>() {{
 		add("genre/rock|Select bands of a given genre");
 		add("bandsByGenre/rock|Count bands of a given genre");
-		add("hometown/Hertford|Count bands of a given hometown");
+		add("hometown/Hertford|Select bands which a given hometown");
+		add("bandsByHometown/Hertford|Count bands which a given hometown");
 	}};
 	
 
@@ -33,7 +34,7 @@ public class MusicRESTClient {
 		
 		while(true) {
 			
-			System.out.println("Enter the code of query you want to test (between 1 and "+queries.size()+"): ");
+			System.out.println("Enter the code of the query that you want to test (between 1 and "+queries.size()+"): ");
 			Scanner scanner = new Scanner(System.in);
 			int qNumber = scanner.nextInt();
 			if (qNumber < 1 || qNumber > queries.size()) {

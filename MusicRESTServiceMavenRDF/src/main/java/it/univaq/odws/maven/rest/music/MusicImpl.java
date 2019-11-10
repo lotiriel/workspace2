@@ -31,12 +31,12 @@ public class MusicImpl implements Music {
 	}
 	
 
-	private List<String> prefixesIEEE = Arrays.asList( 
+	private List<String> prefixes = Arrays.asList( 
 			"PREFIX cd: <http://www.best.groups/cd#>",
 			"PREFIX cdWorks: <http://www.best.groups/cdWorks#>"
 			);
 
-	private static final String bandsByGenreIEEE = "SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks WHERE { \n" +  
+	private static final String bandsByGenre = "SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks WHERE { \n" +  
 												   "?band  cd:bandname ?bandname .\n" +
 												   "?band  cd:genrename ?genrename .\n" +
 												   "?band  cd:activeYearsStartYear ?activeYearsStartYear .\n" +
@@ -46,6 +46,7 @@ public class MusicImpl implements Music {
 												   "?bandworks cdWorks:bandname ?bandname .\n" +
 												   "?bandworks cdWorks:numworks ?numworks .\n" +
 												   "filter regex(?genrename,\"X\")}";
+	
 	private static final String bandsByHometown = 	"SELECT ?bandname ?genrename ?hometown  WHERE { \n" +  
 													"?band  cd:bandname ?bandname .\n" +
 													"?band  cd:genrename ?genrename .\n" +
@@ -105,11 +106,11 @@ public class MusicImpl implements Music {
 		return json;
 	}
 
-	public String callIEEEService(String service) throws JsonProcessingException {
+	public String callService(String service) throws JsonProcessingException {
 		Dataset dataset = loadDataset();
 		StringBuilder query = new StringBuilder();
 
-		for (String prefix: this.prefixesIEEE) {
+		for (String prefix: this.prefixes) {
 			query.append(prefix).append(System.lineSeparator());
 		}
 
@@ -127,20 +128,29 @@ public class MusicImpl implements Music {
 
 	@Override
 	public String getbandsByGenre(String genre) throws JsonProcessingException {
-		return callIEEEService(MusicImpl.bandsByGenreIEEE.replace("X", genre));
+		return callService(MusicImpl.bandsByGenre.replace("X", genre));
 	}
 
 	@Override
 	public String getNumberBandsByGenre(String genre) throws JsonProcessingException {
-		return callIEEEServiceCounter(MusicImpl.bandsByGenreIEEE.replace("X", genre));
+		return callServiceCounter(MusicImpl.bandsByGenre.replace("X", genre));
+	}
+
+	@Override
+	public String getbandsByHometown(String hometown) throws JsonProcessingException {
+		return callService(MusicImpl.bandsByHometown.replace("X", hometown));
+	}
+
+	@Override
+	public String getNumberBandsByHometown(String hometown) throws JsonProcessingException {
+		return callServiceCounter(MusicImpl.bandsByHometown.replace("X", hometown));
 	}
 	
-
-	public String callIEEEServiceCounter(String service) throws JsonProcessingException {
+	public String callServiceCounter(String service) throws JsonProcessingException {
 		Dataset dataset = loadDataset();
 		StringBuilder query = new StringBuilder();
 
-		for (String prefix: this.prefixesIEEE) {
+		for (String prefix: this.prefixes) {
 			query.append(prefix).append(System.lineSeparator());
 		}
 
