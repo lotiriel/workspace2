@@ -58,6 +58,8 @@ public class MusicImpl implements Music {
 													"?bandworks cdWorks:numworks ?numworks .\n" +
 													"filter regex(?hometown,\"X\")}";
 	
+	private static final String bandsActive = 		"SELECT ?bandname ?genrename ?activeYearsEndYear  WHERE { \n"
+			+ "										activeYearsEndYear == ' '}";
 	//put query result in an HashMap
 	public List<Map<String, String>> retrieveQueryResult(ResultSet r){
 		List<Map<String, String>> results = new ArrayList<Map<String, String>>();
@@ -145,7 +147,10 @@ public class MusicImpl implements Music {
 	public String getNumberBandsByHometown(String hometown) throws JsonProcessingException {
 		return callServiceCounter(MusicImpl.bandsByHometown.replace("X", hometown));
 	}
-	
+	public String bandsActive(String activeYearsEndYear) throws JsonProcessingException {
+		return callService(MusicImpl.bandsActive);
+	}
+
 	public String callServiceCounter(String service) throws JsonProcessingException {
 		Dataset dataset = loadDataset();
 		StringBuilder query = new StringBuilder();
