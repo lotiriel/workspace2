@@ -46,7 +46,16 @@ public class MusicImpl implements Music {
 												   "?bandworks cdWorks:bandname ?bandname .\n" +
 												   "?bandworks cdWorks:numworks ?numworks .\n" +
 												   "filter regex(?genrename,\"X\")}";
-	
+	private static final String bandsByHometown = 	"SELECT ?bandname ?genrename ?hometown  WHERE { \n" +  
+													"?band  cd:bandname ?bandname .\n" +
+													"?band  cd:genrename ?genrename .\n" +
+													"?band  cd:activeYearsStartYear ?activeYearsStartYear .\n" +
+													"?band  cd:activeYearsEndYear ?activeYearsEndYear .\n" +
+													"?band  cd:noOfMembers ?noOfMembers .\n" +
+													"?band  cd:hometown ?hometown .\n" +
+													"?bandworks cdWorks:bandname ?bandname .\n" +
+													"?bandworks cdWorks:numworks ?numworks .\n" +
+													"filter regex(?hometown,\"X\")}";
 	
 	//put query result in an HashMap
 	public List<Map<String, String>> retrieveQueryResult(ResultSet r){
