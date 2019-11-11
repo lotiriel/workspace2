@@ -58,8 +58,17 @@ public class MusicImpl implements Music {
 													"?bandworks cdWorks:numworks ?numworks .\n" +
 													"filter regex(?hometown,\"X\")}";
 	
-	private static final String bandsActive = 		"SELECT ?bandname ?genrename ?activeYearsEndYear  WHERE { \n"
-			+ "										activeYearsEndYear == ' '}";
+	private static final String bandsActive = 		"SELECT ?bandname ?genrename ?activeYearsStartYear  WHERE { \n"+ "?activeYearsEndYear == ' '}";
+	
+	private static final String numberOfBandsforYear = "SELECT ?activeYearsStartYear (COUNT( ?genrename) AS count ) WHERE {\n" + 
+														"?band  cd:bandname ?bandname .\n" +
+														"?band  cd:genrename ?genrename .\n" +
+														"?band  cd:activeYearsStartYear ?activeYearsStartYear .\n "
+														+ "FILTER(?activeYearsStartYea >= "1960-00-00T00:00:00Z"^^xsd:dateTime).\n" 
+														+ "GROUP BY ?genrename ?year HAVING (?count > 10)
+
+
+														
 	//put query result in an HashMap
 	public List<Map<String, String>> retrieveQueryResult(ResultSet r){
 		List<Map<String, String>> results = new ArrayList<Map<String, String>>();
