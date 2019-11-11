@@ -159,7 +159,7 @@ public class MusicImpl implements Music {
 		return callServiceCounter(MusicImpl.bandsByHometown.replace("X", hometown));
 	}
 	
-	public String bandsActive(String activeYearsEndYear) throws JsonProcessingException {
+	public String getbandsActive(String activeYearsEndYear) throws JsonProcessingException {
 		return callService(MusicImpl.bandsActive);
 	}
 	
