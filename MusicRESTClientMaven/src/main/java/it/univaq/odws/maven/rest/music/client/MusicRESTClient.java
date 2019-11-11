@@ -23,6 +23,7 @@ public class MusicRESTClient {
 		add("bandsByGenre/rock|Count bands of a given genre");
 		add("hometown/Hertford|Select bands which a given hometown");
 		add("bandsByHometown/Hertford|Count bands which a given hometown");
+		add("bandsActive/1998|Show bands actually active");
 	}};
 	
 

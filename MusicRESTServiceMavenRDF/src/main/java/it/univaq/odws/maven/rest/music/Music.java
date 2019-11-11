@@ -30,5 +30,9 @@ public interface Music {
 	@Path("/bandsByHometown/{hometown}")
 	@Produces({MediaType.APPLICATION_JSON})
 	String getNumberBandsByHometown (@PathParam("hometown")String hometown) throws JsonProcessingException;
-		
+	
+	@GET
+	@Path("/bandsActive/{activeYearsEndYear}")
+	@Produces({MediaType.APPLICATION_JSON})
+	String getbandsActive (@PathParam("activeYearsEndYear")String activeYearsEndYear) throws JsonProcessingException;
 }

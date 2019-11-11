@@ -147,10 +147,11 @@ public class MusicImpl implements Music {
 	public String getNumberBandsByHometown(String hometown) throws JsonProcessingException {
 		return callServiceCounter(MusicImpl.bandsByHometown.replace("X", hometown));
 	}
+	
 	public String bandsActive(String activeYearsEndYear) throws JsonProcessingException {
 		return callService(MusicImpl.bandsActive);
 	}
-
+	
 	public String callServiceCounter(String service) throws JsonProcessingException {
 		Dataset dataset = loadDataset();
 		StringBuilder query = new StringBuilder();
