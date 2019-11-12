@@ -180,6 +180,11 @@ public class MusicImpl implements Music {
 		return callServiceCounter(MusicImpl.bandsByHometown.replace("X", hometown));
 	}
 	
+	@Override
+	public String getbandsByMembres(String noOfMembres) throws JsonProcessingException {
+		return callService(MusicImpl.bandsByMembres.replace("X", noOfMembres));
+	}
+	
 	public String getbandsActive(String genre) throws JsonProcessingException {
 		return callService(MusicImpl.bandsActive.replace("X", genre));
 	}
