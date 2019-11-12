@@ -58,7 +58,17 @@ public class MusicImpl implements Music {
 													"?bandworks cdWorks:numworks ?numworks .\n" +
 													"filter regex(?hometown,\"X\")}";
 	
-	private static final String bandsActive = 		"SELECT ?bandname ?genrename ?activeYearsStartYear  WHERE { \n"+ "?band  cd:activeYearsEndYear ?activeYearsEndYear == ' '}";
+	private static final String bandsActive = 		"SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks  WHERE { \n"+
+											 	    "?band  cd:bandname ?bandname .\n" +
+												    "?band  cd:genrename ?genrename .\n" +
+												    "?band  cd:activeYearsStartYear ?activeYearsStartYear .\n" +
+												    "OPTIONAL{?band  cd:activeYearsEndYear ?activeYearsEndYear} .\n" +
+												    "FILTER (?activeYearsEndYear = '') .\n" +
+												    "?band  cd:noOfMembers ?noOfMembers .\n" +
+												    "?band  cd:hometown ?hometown .\n" +
+												    "?bandworks cdWorks:bandname ?bandname .\n" +
+												    "?bandworks cdWorks:numworks ?numworks .\n" +
+												    "filter regex(?genrename,\"X\")}";
 	
 	private static final String numberOfAlbums = "SELECT ?activeYearsEndYear (count(distinct ?numworks) "+
 												"AS ?count WHERE { \n" +
@@ -159,8 +169,8 @@ public class MusicImpl implements Music {
 		return callServiceCounter(MusicImpl.bandsByHometown.replace("X", hometown));
 	}
 	
-	public String getbandsActive(String activeYearsEndYear) throws JsonProcessingException {
-		return callService(MusicImpl.bandsActive);
+	public String getbandsActive(String genre) throws JsonProcessingException {
+		return callService(MusicImpl.bandsActive.replace("X", genre));
 	}
 	
 	public String callServiceCounter(String service) throws JsonProcessingException {
