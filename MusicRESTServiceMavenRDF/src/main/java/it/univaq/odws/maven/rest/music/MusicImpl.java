@@ -77,6 +77,17 @@ public class MusicImpl implements Music {
 													"BIND(year(?activeYearsEndYear) AS ?year)"+
 													" GROUP BY ?year "+
 													"ORDER BY desc(?count)";
+	
+	private static final String bandsByMembres = "SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks WHERE { \n" +  
+												 "?band  cd:bandname ?bandname .\n" +
+												 "?band  cd:genrename ?genrename .\n" +
+												 "?band  cd:activeYearsStartYear ?activeYearsStartYear .\n" +
+												 "?band  cd:activeYearsEndYear ?activeYearsEndYear .\n" +
+												 "?band  cd:noOfMembers ?noOfMembers .\n" +
+												 "?band  cd:hometown ?hometown .\n" +
+												 "?bandworks cdWorks:bandname ?bandname .\n" +
+												 "?bandworks cdWorks:numworks ?numworks .\n" +
+												 "filter regex(?noOfMembres,\"X\")}";
 													
 													
 
