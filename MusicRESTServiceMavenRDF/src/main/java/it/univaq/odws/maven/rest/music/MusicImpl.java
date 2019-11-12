@@ -70,15 +70,7 @@ public class MusicImpl implements Music {
 												    "?bandworks cdWorks:numworks ?numworks .\n" +
 												    "filter regex(?genrename,\"X\")}";
 	
-	private static final String numberOfAlbums = "SELECT ?activeYearsEndYear (count(distinct ?numworks) "+
-												"AS ?count WHERE { \n" +
-													"?bandworks cdWorks:numworks ?numworks .\n"+
-													"?band  cd:activeYearsEndYear ?activeYearsEndYear .\n" +
-													"BIND(year(?activeYearsEndYear) AS ?year)"+
-													" GROUP BY ?year "+
-													"ORDER BY desc(?count)";
-	
-	private static final String bandsByMembres = "SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks WHERE { \n" +  
+	private static final String bandsByMembers = "SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks WHERE { \n" +  
 												 "?band  cd:bandname ?bandname .\n" +
 												 "?band  cd:genrename ?genrename .\n" +
 												 "?band  cd:activeYearsStartYear ?activeYearsStartYear .\n" +
@@ -87,10 +79,7 @@ public class MusicImpl implements Music {
 												 "?band  cd:hometown ?hometown .\n" +
 												 "?bandworks cdWorks:bandname ?bandname .\n" +
 												 "?bandworks cdWorks:numworks ?numworks .\n" +
-												 "filter regex(?noOfMembres,\"X\")}";
-													
-													
-
+												 "filter regex(?noOfMembers,\"X\")}";
 														
 	//put query result in an HashMap
 	public List<Map<String, String>> retrieveQueryResult(ResultSet r){
@@ -181,8 +170,8 @@ public class MusicImpl implements Music {
 	}
 	
 	@Override
-	public String getbandsByMembres(String noOfMembres) throws JsonProcessingException {
-		return callService(MusicImpl.bandsByMembres.replace("X", noOfMembres));
+	public String getbandsByMembers(String noOfMembers) throws JsonProcessingException {
+		return callService(MusicImpl.bandsByMembers.replace("X", noOfMembers));
 	}
 	
 	public String getbandsActive(String genre) throws JsonProcessingException {

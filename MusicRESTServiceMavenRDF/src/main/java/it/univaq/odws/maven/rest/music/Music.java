@@ -37,8 +37,8 @@ public interface Music {
 	String getbandsActive (@PathParam("genre")String genre) throws JsonProcessingException;
 	
 	@GET
-	@Path("/bandsByMembres/{noOfMembres}")
+	@Path("/bandsByMembers/{noOfMembers}")
 	@Produces({MediaType.APPLICATION_JSON})
-	String getbandsByMembres (@PathParam("noOfMembres")String noOfMembres) throws JsonProcessingException;
+	String getbandsByMembers (@PathParam("noOfMembers")String noOfMembers) throws JsonProcessingException;
 
 }
