@@ -80,6 +80,7 @@ public class MusicImpl implements Music {
 												 "?bandworks cdWorks:bandname ?bandname .\n" +
 												 "?bandworks cdWorks:numworks ?numworks .\n" +
 												 "filter regex(?noOfMembers,\"X\")}";
+	
 	private static final String bandsByBandName = "SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks WHERE { \n" +  
 												   "?band  cd:bandname ?bandname .\n" +
 												   "?band  cd:genrename ?genrename .\n" +
@@ -90,7 +91,19 @@ public class MusicImpl implements Music {
 												   "?bandworks cdWorks:bandname ?bandname .\n" +
 												   "?bandworks cdWorks:numworks ?numworks .\n" +
 												   "filter regex(?bandname,\"X\")}";
-														
+	
+	private static final String bandsByEstYear = 		"SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks  WHERE { \n"+
+											 	    "?band  cd:bandname ?bandname .\n" +
+												    "?band  cd:genrename ?genrename .\n" +
+												    "?band  cd:activeYearsStartYear ?activeYearsStartYear .\n" +
+												    "OPTIONAL{?band  cd:activeYearsEndYear ?activeYearsEndYear} .\n" +
+												    "FILTER (?activeYearsStartYear == X) .\n" +
+												    "?band  cd:noOfMembers ?noOfMembers .\n" +
+												    "?band  cd:hometown ?hometown .\n" +
+												    "?bandworks cdWorks:bandname ?bandname .\n" +
+												    "?bandworks cdWorks:numworks ?numworks .\n" +
+												    "filter regex(?activeYearsStartYear,X)}";
+																								
 	//put query result in an HashMap
 	public List<Map<String, String>> retrieveQueryResult(ResultSet r){
 		List<Map<String, String>> results = new ArrayList<Map<String, String>>();
@@ -190,6 +203,11 @@ public class MusicImpl implements Music {
 	@Override
 	public String getbandsByBandName(String bandname) throws JsonProcessingException {
 		return callService(MusicImpl.bandsByBandName.replace("X", bandname));
+	}
+	
+	@Override
+	public String getbandsByEstYear(String activeYearsStartYear) throws JsonProcessingException {
+		return callService(MusicImpl.bandsByEstYear.replace("X", "\""+activeYearsStartYear+"\""));
 	}
 	public String callServiceCounter(String service) throws JsonProcessingException {
 		Dataset dataset = loadDataset();

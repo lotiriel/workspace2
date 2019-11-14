@@ -45,5 +45,11 @@ public interface Music {
 	@Path("/bandname/{bandname}")
 	@Produces({MediaType.APPLICATION_JSON})
 	String getbandsByBandName (@PathParam("bandname")String bandname) throws JsonProcessingException;
+	
+	
+	@GET
+	@Path("/activeYearsStartYear/{activeYearsStartYear}")
+	@Produces({MediaType.APPLICATION_JSON})
+	String getbandsByEstYear (@PathParam("activeYearsStartYear")String activeYearsStartYear) throws JsonProcessingException;
 
 }

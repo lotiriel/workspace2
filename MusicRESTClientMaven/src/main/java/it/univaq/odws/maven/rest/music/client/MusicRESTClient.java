@@ -26,6 +26,7 @@ public class MusicRESTClient {
 		add("bandsActive/1998|Select bands of a given genre which are still in activity");
 		add("bandsByMembers/rock|Select bands given the number of their members");	
 		add("bandname/Dover|Select bands of a given bandname");
+		add("activeYearsStartYear/1995|Select bands of a given year of  establishment");
 
 	}};
 	
