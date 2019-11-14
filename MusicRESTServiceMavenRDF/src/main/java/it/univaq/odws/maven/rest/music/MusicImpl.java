@@ -81,7 +81,7 @@ public class MusicImpl implements Music {
 												 "?bandworks cdWorks:numworks ?numworks .\n" +
 												 "filter regex(?noOfMembers,\"X\")}";
 	
-	private static final String bandsByBandName = "SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks WHERE { \n" +  
+	private static final String bandsByBandName =  "SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks WHERE { \n" +  
 												   "?band  cd:bandname ?bandname .\n" +
 												   "?band  cd:genrename ?genrename .\n" +
 												   "?band  cd:activeYearsStartYear ?activeYearsStartYear .\n" +
@@ -92,17 +92,16 @@ public class MusicImpl implements Music {
 												   "?bandworks cdWorks:numworks ?numworks .\n" +
 												   "filter regex(?bandname,\"X\")}";
 	
-	private static final String bandsByEstYear = 		"SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks  WHERE { \n"+
+	private static final String bandsByEstYear = 	"SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks  WHERE { \n"+
 											 	    "?band  cd:bandname ?bandname .\n" +
 												    "?band  cd:genrename ?genrename .\n" +
 												    "?band  cd:activeYearsStartYear ?activeYearsStartYear .\n" +
-												    "OPTIONAL{?band  cd:activeYearsEndYear ?activeYearsEndYear} .\n" +
-												    "FILTER (?activeYearsStartYear == X) .\n" +
+												    "?band  cd:activeYearsEndYear ?activeYearsEndYear .\n" +					   
 												    "?band  cd:noOfMembers ?noOfMembers .\n" +
 												    "?band  cd:hometown ?hometown .\n" +
 												    "?bandworks cdWorks:bandname ?bandname .\n" +
 												    "?bandworks cdWorks:numworks ?numworks .\n" +
-												    "filter regex(?activeYearsStartYear,X)}";
+												    "filter regex(?activeYearsStartYear,\"X\")}";
 																								
 	//put query result in an HashMap
 	public List<Map<String, String>> retrieveQueryResult(ResultSet r){

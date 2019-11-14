@@ -25,8 +25,8 @@ public class MusicRESTClient {
 		add("bandsByHometown/Hertford|Count bands which a given hometown");
 		add("bandsActive/1998|Select bands of a given genre which are still in activity");
 		add("bandsByMembers/rock|Select bands given the number of their members");	
-		add("bandname/Dover|Select bands of a given bandname");
-		add("activeYearsStartYear/1995|Select bands of a given year of  establishment");
+		add("bandname/Dover|Select bands with a given name");
+		add("activeYearsStartYear/1995|Select bands given the year of establishment");
 
 	}};
 	
@@ -48,9 +48,13 @@ public class MusicRESTClient {
 			}
 			
 			System.out.println("Enter the query parameter: ");
-			scanner = new Scanner(System.in);
+			scanner = new Scanner(System.in);	
 			
 			String parameter = scanner.nextLine();
+			
+			if (qNumber ==8) {
+				parameter = '"' + parameter + '"';
+			}	
 			
 			String final_query = queries.get(qNumber-1).split("/")[0] + "/" + parameter;
 			
