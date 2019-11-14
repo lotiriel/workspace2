@@ -80,6 +80,16 @@ public class MusicImpl implements Music {
 												 "?bandworks cdWorks:bandname ?bandname .\n" +
 												 "?bandworks cdWorks:numworks ?numworks .\n" +
 												 "filter regex(?noOfMembers,\"X\")}";
+	private static final String bandsByBandName = "SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks WHERE { \n" +  
+												   "?band  cd:bandname ?bandname .\n" +
+												   "?band  cd:genrename ?genrename .\n" +
+												   "?band  cd:activeYearsStartYear ?activeYearsStartYear .\n" +
+												   "?band  cd:activeYearsEndYear ?activeYearsEndYear .\n" +
+												   "?band  cd:noOfMembers ?noOfMembers .\n" +
+												   "?band  cd:hometown ?hometown .\n" +
+												   "?bandworks cdWorks:bandname ?bandname .\n" +
+												   "?bandworks cdWorks:numworks ?numworks .\n" +
+												   "filter regex(?bandname,\"X\")}";
 														
 	//put query result in an HashMap
 	public List<Map<String, String>> retrieveQueryResult(ResultSet r){
@@ -173,11 +183,14 @@ public class MusicImpl implements Music {
 	public String getbandsByMembers(String noOfMembers) throws JsonProcessingException {
 		return callService(MusicImpl.bandsByMembers.replace("X", noOfMembers));
 	}
-	
+	@Override
 	public String getbandsActive(String genre) throws JsonProcessingException {
 		return callService(MusicImpl.bandsActive.replace("X", genre));
 	}
-	
+	@Override
+	public String getbandsByBandName(String bandname) throws JsonProcessingException {
+		return callService(MusicImpl.bandsByBandName.replace("X", bandname));
+	}
 	public String callServiceCounter(String service) throws JsonProcessingException {
 		Dataset dataset = loadDataset();
 		StringBuilder query = new StringBuilder();
