@@ -122,11 +122,9 @@ public class MusicImpl implements Music {
 												   "?band  cd:noOfMembers ?noOfMembers .\n" +
 												   "?band  cd:hometown ?hometown .\n" +
 												   "?bandworks cdWorks:bandname ?bandname .\n" +
-												   "?bandworks cdWorks:numworks ?numworks .\n" +
-												   "filter regex(?genrename,\"X\")}.\n" + 
+												   "?bandworks cdWorks:numworks ?numworks} .\n" +
 												   "ORDER BY ASC(cdWorks:numworks ?numworks) .\n" + 
 												   "LIMIT 10 .\n"+
-												   "?bandworks cdWorks:numworks ?numworks} .\n" +
 												   "filter regex(?genrename,\"X\",'i')}";
    
 	//put query result in an HashMap
