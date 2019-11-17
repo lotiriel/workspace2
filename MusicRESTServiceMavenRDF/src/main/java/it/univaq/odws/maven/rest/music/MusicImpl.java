@@ -125,6 +125,16 @@ public class MusicImpl implements Music {
 												   "filter regex(?genrename,\"X\",'i')}" +
 												   "ORDER BY DESC(xsd:integer(?numworks)) LIMIT 10";
    
+   private static final String averageMembers=	   "SELECT ?genrename  (AVG(?noOfMembers) AS AvgMembers ) WHERE { \n" +  
+										           "?band  cd:bandname ?bandname .\n" +
+										           "?band  cd:genrename ?genrename .\n" +
+										           "?band  cd:noOfMembers ?noOfMembers .\n" +
+										           "?bandworks cdWorks:bandname ?bandname .\n" +
+										           "?bandworks cdWorks:numworks ?numworks }" +
+										           //"filter regex(?genrename,\"X\",'i')}" + 
+										            "GROUP BY ?genrename" +
+										            "ORDER BY ?genrename" ;
+   
 	//put query result in an HashMap
 	public List<Map<String, String>> retrieveQueryResult(ResultSet r){
 		List<Map<String, String>> results = new ArrayList<Map<String, String>>();
@@ -241,6 +251,11 @@ public class MusicImpl implements Music {
 	@Override
 	public String getlonglastingBands(String years) throws JsonProcessingException {
 		return callService(MusicImpl.longlastingBands.replace("X", years));
+	}
+	
+	@Override
+	public String getaverageMembers(String genre) throws JsonProcessingException {
+		return callService(MusicImpl.averageMembers.replace("X", genre));
 	}
 	
 	public String callServiceCounter(String service) throws JsonProcessingException {

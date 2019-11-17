@@ -59,4 +59,9 @@ public interface Music {
 	@Path("/bandMostActive/{genre}")
 	@Produces({MediaType.APPLICATION_JSON})
 	String getbandsMostActive (@PathParam("genre")String genre) throws JsonProcessingException;
+	
+	@GET
+	@Path("/averageMembers/{genre}")
+	@Produces({MediaType.APPLICATION_JSON})
+	String getaverageMembers (@PathParam("genre")String genre) throws JsonProcessingException;
 }

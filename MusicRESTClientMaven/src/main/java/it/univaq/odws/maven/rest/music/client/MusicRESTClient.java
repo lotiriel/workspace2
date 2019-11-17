@@ -29,6 +29,7 @@ public class MusicRESTClient {
 		add("activeYearsStartYear/1995|Select bands given the year of establishment");
 		add("longlastingBands/5|Select bands which have been in activity for AT LEAST the given number of years");
 		add("bandMostActive/rock|Select TOP 10 most productive bands of a given genre");
+		add("averageMembers/rock|Calculate the average number of members of all the bands of a given genre");
 	}};
 	
 
