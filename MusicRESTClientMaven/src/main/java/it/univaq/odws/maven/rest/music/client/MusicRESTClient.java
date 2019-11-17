@@ -16,7 +16,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class MusicRESTClient {
 	
-	private static final String endpointIEEE = "http://localhost:8080/MusicRESTServiceMavenRDF/rest/music/";
+	private static final String endpoint = "http://localhost:8080/MusicRESTServiceMavenRDF/rest/music/";
 
 	private static final ArrayList<String> queries = new ArrayList<String>() {{
 		add("genre/rock|Select bands of a given genre");
@@ -59,13 +59,13 @@ public class MusicRESTClient {
 			String final_query = queries.get(qNumber-1).split("/")[0] + "/" + parameter;
 			
 			System.out.println("Executing Query: "+queries.get(qNumber-1).split("\\|")[1]+": " + parameter + "\n");
-			callendpointIEEE(endpointIEEE + final_query, MediaType.APPLICATION_JSON);
+			callendpoint(endpoint + final_query, MediaType.APPLICATION_JSON);
 			
 		}
 	}
 
-	public static void callendpointIEEE(String endpointIEEEIEEE, String responseType) {
-		WebClient client = WebClient.create(endpointIEEEIEEE);
+	public static void callendpoint(String endpoint, String responseType) {
+		WebClient client = WebClient.create(endpoint);
 		Response response = client.accept(responseType).get();
 		String resultString = getResultString(response);
 		if(!resultString.isEmpty()) {
