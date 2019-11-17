@@ -45,7 +45,7 @@ public class MusicImpl implements Music {
 												   "?band  cd:hometown ?hometown .\n" +
 												   "?bandworks cdWorks:bandname ?bandname .\n" +
 												   "?bandworks cdWorks:numworks ?numworks .\n" +
-												   "filter regex(?genrename,\"X\")}";
+												   "filter regex(?genrename,\"X\",'i')}";
 	
 	private static final String bandsByHometown = 	"SELECT ?bandname ?genrename ?hometown  WHERE { \n" +  
 													"?band  cd:bandname ?bandname .\n" +
@@ -56,7 +56,7 @@ public class MusicImpl implements Music {
 													"?band  cd:hometown ?hometown .\n" +
 													"?bandworks cdWorks:bandname ?bandname .\n" +
 													"?bandworks cdWorks:numworks ?numworks .\n" +
-													"filter regex(?hometown,\"X\")}";
+													"filter regex(?hometown,\"X\",'i')}";
 	
 	private static final String bandsActive = 		"SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks  WHERE { \n"+
 											 	    "?band  cd:bandname ?bandname .\n" +
@@ -68,7 +68,7 @@ public class MusicImpl implements Music {
 												    "?band  cd:hometown ?hometown .\n" +
 												    "?bandworks cdWorks:bandname ?bandname .\n" +
 												    "?bandworks cdWorks:numworks ?numworks .\n" +
-												    "filter regex(?genrename,\"X\")}";
+												    "filter regex(?genrename,\"X\",'i')}";
 	
 	private static final String bandsByMembers = "SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks WHERE { \n" +  
 												 "?band  cd:bandname ?bandname .\n" +
@@ -90,7 +90,7 @@ public class MusicImpl implements Music {
 												   "?band  cd:hometown ?hometown .\n" +
 												   "?bandworks cdWorks:bandname ?bandname .\n" +
 												   "?bandworks cdWorks:numworks ?numworks .\n" +
-												   "filter regex(?bandname,\"X\")}";
+												   "filter regex(?bandname,\"X\",'i')}";
 	
 	private static final String bandsByEstYear = 	"SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks  WHERE { \n"+
 											 	    "?band  cd:bandname ?bandname .\n" +
