@@ -123,7 +123,7 @@ public class MusicImpl implements Music {
 												   "?bandworks cdWorks:bandname ?bandname .\n" +
 												   "?bandworks cdWorks:numworks ?numworks .\n" +
 												   "filter regex(?genrename,\"X\",'i')}" +
-												   "ORDER BY DESC(?numworks) LIMIT 10";
+												   "ORDER BY DESC(xsd:integer(?numworks)) LIMIT 10";
    
 	//put query result in an HashMap
 	public List<Map<String, String>> retrieveQueryResult(ResultSet r){
