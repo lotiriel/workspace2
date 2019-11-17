@@ -115,7 +115,7 @@ public class MusicImpl implements Music {
 												 	"?bandworks cdWorks:numworks ?numworks .\n" +
 												 	"FILTER ((xsd:integer(?activeYearsEndYear) - xsd:integer(?activeYearsStartYear)) >= xsd:integer(\"X\"))}";
 													
-   private static final String bandMostActive=	   "SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks  WHERE { \n"+
+   private static final String bandMostActive=	   "SELECT ?bandname ?genrename ?numworks  WHERE { \n"+
 												   "?band  cd:bandname ?bandname .\n" +
 												   "?band  cd:genrename ?genrename .\n" +
 												   "?band  cd:activeYearsStartYear ?activeYearsStartYear .\n" +
@@ -123,9 +123,10 @@ public class MusicImpl implements Music {
 												   "?band  cd:hometown ?hometown .\n" +
 												   "?bandworks cdWorks:bandname ?bandname .\n" +
 												   "?bandworks cdWorks:numworks ?numworks .\n" +
-												   "filter regex(?genrename,\"X\")}.\n"+
-												   "ORDER BY DESC(?numworks).\n" + 
-												   "LIMIT 10 .\n";							
+												   "filter regex(?genrename,\"X\")}.\n" + 
+												   "ORDER BY ASC(cdWorks:numworks ?numworks) .\n" + 
+												   "LIMIT 10 .\n" ;
+							
    
 	//put query result in an HashMap
 	public List<Map<String, String>> retrieveQueryResult(ResultSet r){
@@ -236,8 +237,8 @@ public class MusicImpl implements Music {
 	}
 	
 	@Override
-	public String getbandsMostActive(String bandname) throws JsonProcessingException {
-		return callService(MusicImpl.bandMostActive.replace("X", bandname));
+	public String getbandsMostActive(String genre) throws JsonProcessingException {
+		return callService(MusicImpl.bandMostActive.replace("X", genre));
 	}
 	
 	@Override
