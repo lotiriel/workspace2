@@ -125,15 +125,14 @@ public class MusicImpl implements Music {
 												   "filter regex(?genrename,\"X\",'i')}" +
 												   "ORDER BY DESC(xsd:integer(?numworks)) LIMIT 10";
    
-   private static final String averageMembers=	   "SELECT ?genrename  (AVG(?noOfMembers) AS AvgMembers ) WHERE { \n" +  
+   private static final String averageMembers=	   "SELECT ?genrename  (STR(AVG(xsd:decimal(?noOfMembers))) AS ?AvgMembers ) WHERE { \n" +  
 										           "?band  cd:bandname ?bandname .\n" +
 										           "?band  cd:genrename ?genrename .\n" +
 										           "?band  cd:noOfMembers ?noOfMembers .\n" +
 										           "?bandworks cdWorks:bandname ?bandname .\n" +
-										           "?bandworks cdWorks:numworks ?numworks }" +
-										           //"filter regex(?genrename,\"X\",'i')}" + 
-										            "GROUP BY ?genrename" +
-										            "ORDER BY ?genrename" ;
+										           "?bandworks cdWorks:numworks ?numworks .\n " +
+										           "filter regex(?genrename,\"X\",'i')}" + 
+										            "GROUP BY ?genrename";
    
 	//put query result in an HashMap
 	public List<Map<String, String>> retrieveQueryResult(ResultSet r){
