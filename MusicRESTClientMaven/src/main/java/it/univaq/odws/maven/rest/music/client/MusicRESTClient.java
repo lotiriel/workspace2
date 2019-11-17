@@ -24,7 +24,7 @@ public class MusicRESTClient {
 		add("hometown/Hertford|Select bands which a given hometown");
 		add("bandsByHometown/Hertford|Count bands which a given hometown");
 		add("bandsActive/1998|Select bands of a given genre which are still in activity");
-		add("bandsByMembers/rock|Select bands given the number of their members");	
+		add("bandsByMembers/rock|Select bands with AT LEAST the given number of members");	
 		add("bandname/Dover|Select bands with a given name");
 		add("activeYearsStartYear/1995|Select bands given the year of establishment");
 		add("genre/rock|Select bands of a given genre most Active");
