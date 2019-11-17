@@ -5,7 +5,6 @@ import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
-
 import com.fasterxml.jackson.core.JsonProcessingException;
 
 @Path("/music")
@@ -44,13 +43,17 @@ public interface Music {
 	@GET
 	@Path("/bandname/{bandname}")
 	@Produces({MediaType.APPLICATION_JSON})
-	String getbandsByBandName (@PathParam("bandname")String bandname) throws JsonProcessingException;
-	
+	String getbandsByBandName (@PathParam("bandname")String bandname) throws JsonProcessingException;	
 	
 	@GET
 	@Path("/activeYearsStartYear/{activeYearsStartYear}")
 	@Produces({MediaType.APPLICATION_JSON})
 	String getbandsByEstYear (@PathParam("activeYearsStartYear")String activeYearsStartYear) throws JsonProcessingException;
+	
+	@GET
+	@Path("/longlastingBands/{years}")
+	@Produces({MediaType.APPLICATION_JSON})
+	String getlonglastingBands (@PathParam("years")String years) throws JsonProcessingException;	
 
 	@GET
 	@Path("/genre/{genre}")

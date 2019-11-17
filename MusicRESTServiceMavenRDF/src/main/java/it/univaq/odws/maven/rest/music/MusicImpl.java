@@ -33,7 +33,8 @@ public class MusicImpl implements Music {
 
 	private List<String> prefixes = Arrays.asList( 
 			"PREFIX cd: <http://www.best.groups/cd#>",
-			"PREFIX cdWorks: <http://www.best.groups/cdWorks#>"
+			"PREFIX cdWorks: <http://www.best.groups/cdWorks#>",
+			"PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>"			
 			);
 
 	private static final String bandsByGenre = "SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks WHERE { \n" +  
@@ -102,9 +103,20 @@ public class MusicImpl implements Music {
 												    "?bandworks cdWorks:bandname ?bandname .\n" +
 												    "?bandworks cdWorks:numworks ?numworks .\n" +
 												    "filter regex(?activeYearsStartYear,\"X\")}";
+	
+	private static final String longlastingBands =  "SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks WHERE { \n" +  
+												 	"?band  cd:bandname ?bandname .\n" +
+												 	"?band  cd:genrename ?genrename .\n" +
+												 	"?band  cd:activeYearsStartYear ?activeYearsStartYear .\n" +
+												 	"?band  cd:activeYearsEndYear ?activeYearsEndYear .\n" +
+												 	"?band  cd:noOfMembers ?noOfMembers .\n" +
+												 	"?band  cd:hometown ?hometown .\n" +
+												 	"?bandworks cdWorks:bandname ?bandname .\n" +
+												 	"?bandworks cdWorks:numworks ?numworks .\n" +
+												 	"FILTER ((xsd:integer(?activeYearsEndYear) - xsd:integer(?activeYearsStartYear)) >= xsd:integer(\"X\"))}";
 													
-   private static final String bandMostActive=		"SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks  WHERE { \n"+
-												    "?band  cd:bandname ?bandname .\n" +
+   private static final String bandMostActive=	   "SELECT ?bandname ?genrename ?activeYearsStartYear ?activeYearsEndYear ?noOfMembers ?hometown ?numworks  WHERE { \n"+
+												   "?band  cd:bandname ?bandname .\n" +
 												   "?band  cd:genrename ?genrename .\n" +
 												   "?band  cd:activeYearsStartYear ?activeYearsStartYear .\n" +
 												   "?band  cd:noOfMembers ?noOfMembers .\n" +
@@ -113,7 +125,8 @@ public class MusicImpl implements Music {
 												   "?bandworks cdWorks:numworks ?numworks .\n" +
 												   "filter regex(?genrename,\"X\")}.\n"+
 												   "ORDER BY DESC(?numworks).\n" + 
-												   "LIMIT 10 .\n";												
+												   "LIMIT 10 .\n";							
+   
 	//put query result in an HashMap
 	public List<Map<String, String>> retrieveQueryResult(ResultSet r){
 		List<Map<String, String>> results = new ArrayList<Map<String, String>>();
@@ -206,10 +219,12 @@ public class MusicImpl implements Music {
 	public String getbandsByMembers(String noOfMembers) throws JsonProcessingException {
 		return callService(MusicImpl.bandsByMembers.replace("X", noOfMembers));
 	}
+	
 	@Override
 	public String getbandsActive(String genre) throws JsonProcessingException {
 		return callService(MusicImpl.bandsActive.replace("X", genre));
 	}
+	
 	@Override
 	public String getbandsByBandName(String bandname) throws JsonProcessingException {
 		return callService(MusicImpl.bandsByBandName.replace("X", bandname));
@@ -220,9 +235,16 @@ public class MusicImpl implements Music {
 		return callService(MusicImpl.bandsByEstYear.replace("X", "\""+activeYearsStartYear+"\""));
 	}
 	
+	@Override
 	public String getbandsMostActive(String bandname) throws JsonProcessingException {
 		return callService(MusicImpl.bandMostActive.replace("X", bandname));
 	}
+	
+	@Override
+	public String getlonglastingBands(String years) throws JsonProcessingException {
+		return callService(MusicImpl.longlastingBands.replace("X", years));
+	}
+	
 	public String callServiceCounter(String service) throws JsonProcessingException {
 		Dataset dataset = loadDataset();
 		StringBuilder query = new StringBuilder();
