@@ -122,10 +122,9 @@ public class MusicImpl implements Music {
 												   "?band  cd:noOfMembers ?noOfMembers .\n" +
 												   "?band  cd:hometown ?hometown .\n" +
 												   "?bandworks cdWorks:bandname ?bandname .\n" +
-												   "?bandworks cdWorks:numworks ?numworks .\n" +
-												   "filter regex(?genrename,\"X\")}.\n"+
-												   "ORDER BY DESC(?numworks).\n" + 
-												   "LIMIT 10 .\n";							
+												   "?bandworks cdWorks:numworks ?numworks} .\n" +
+												   "filter regex(?genrename,\"X\",'i')}";
+												   //"ORDER BY DESC(?numworks) LIMIT 10";							
    
 	//put query result in an HashMap
 	public List<Map<String, String>> retrieveQueryResult(ResultSet r){
