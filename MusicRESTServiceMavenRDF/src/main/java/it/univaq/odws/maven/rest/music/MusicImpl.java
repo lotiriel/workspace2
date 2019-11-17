@@ -115,17 +115,15 @@ public class MusicImpl implements Music {
 												 	"?bandworks cdWorks:numworks ?numworks .\n" +
 												 	"FILTER ((xsd:integer(?activeYearsEndYear) - xsd:integer(?activeYearsStartYear)) >= xsd:integer(\"X\"))}";
 													
-   private static final String bandMostActive=	   "SELECT ?bandname ?genrename ?numworks  WHERE { \n"+
+   private static final String bandMostActive=	   "SELECT ?bandname ?genrename ?noOfMembers ?numworks WHERE { \n" +  
 												   "?band  cd:bandname ?bandname .\n" +
 												   "?band  cd:genrename ?genrename .\n" +
-												   "?band  cd:activeYearsStartYear ?activeYearsStartYear .\n" +
 												   "?band  cd:noOfMembers ?noOfMembers .\n" +
 												   "?band  cd:hometown ?hometown .\n" +
 												   "?bandworks cdWorks:bandname ?bandname .\n" +
-												   "?bandworks cdWorks:numworks ?numworks} .\n" +
-												   "ORDER BY ASC(cdWorks:numworks ?numworks) .\n" + 
-												   "LIMIT 10 .\n"+
-												   "filter regex(?genrename,\"X\",'i')}";
+												   "?bandworks cdWorks:numworks ?numworks .\n" +
+												   "filter regex(?genrename,\"X\",'i')}" +
+												   "ORDER BY DESC(?numworks) LIMIT 10";
    
 	//put query result in an HashMap
 	public List<Map<String, String>> retrieveQueryResult(ResultSet r){

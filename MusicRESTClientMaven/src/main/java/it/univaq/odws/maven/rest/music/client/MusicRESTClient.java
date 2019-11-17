@@ -28,7 +28,6 @@ public class MusicRESTClient {
 		add("bandname/Dover|Select bands with a given name");
 		add("activeYearsStartYear/1995|Select bands given the year of establishment");
 		add("longlastingBands/5|Select bands which have been in activity for AT LEAST the given number of years");
-		add("bandsActive/rock|Select bands of a given genre most Active");
 		add("bandMostActive/rock|Select bands of a given genre most Active");
 	}};
 	
