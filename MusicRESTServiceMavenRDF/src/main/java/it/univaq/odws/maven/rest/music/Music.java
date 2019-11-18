@@ -5,7 +5,6 @@ import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
-
 import com.fasterxml.jackson.core.JsonProcessingException;
 
 @Path("/music")
@@ -37,8 +36,32 @@ public interface Music {
 	String getbandsActive (@PathParam("genre")String genre) throws JsonProcessingException;
 	
 	@GET
-	@Path("/bandsByMembres/{noOfMembres}")
+	@Path("/bandsByMembers/{noOfMembers}")
 	@Produces({MediaType.APPLICATION_JSON})
-	String getbandsByMembres (@PathParam("noOfMembres")String noOfMembres) throws JsonProcessingException;
+	String getbandsByMembers (@PathParam("noOfMembers")String noOfMembers) throws JsonProcessingException;
+	
+	@GET
+	@Path("/bandname/{bandname}")
+	@Produces({MediaType.APPLICATION_JSON})
+	String getbandsByBandName (@PathParam("bandname")String bandname) throws JsonProcessingException;	
+	
+	@GET
+	@Path("/activeYearsStartYear/{activeYearsStartYear}")
+	@Produces({MediaType.APPLICATION_JSON})
+	String getbandsByEstYear (@PathParam("activeYearsStartYear")String activeYearsStartYear) throws JsonProcessingException;
+	
+	@GET
+	@Path("/longlastingBands/{years}")
+	@Produces({MediaType.APPLICATION_JSON})
+	String getlonglastingBands (@PathParam("years")String years) throws JsonProcessingException;	
 
+	@GET
+	@Path("/bandMostActive/{genre}")
+	@Produces({MediaType.APPLICATION_JSON})
+	String getbandsMostActive (@PathParam("genre")String genre) throws JsonProcessingException;
+	
+	@GET
+	@Path("/averageMembers/{genre}")
+	@Produces({MediaType.APPLICATION_JSON})
+	String getaverageMembers (@PathParam("genre")String genre) throws JsonProcessingException;
 }

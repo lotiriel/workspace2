@@ -16,16 +16,20 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class MusicRESTClient {
 	
-	private static final String endpointIEEE = "http://localhost:8080/MusicRESTServiceMavenRDF/rest/music/";
+	private static final String endpoint = "http://localhost:8080/MusicRESTServiceMavenRDF/rest/music/";
 
 	private static final ArrayList<String> queries = new ArrayList<String>() {{
 		add("genre/rock|Select bands of a given genre");
 		add("bandsByGenre/rock|Count bands of a given genre");
 		add("hometown/Hertford|Select bands which a given hometown");
 		add("bandsByHometown/Hertford|Count bands which a given hometown");
-		add("bandsActive/1998|Show bands actually active of given genre");
-		add("bandsByMembres/rock|Select bands with specific number of membres");
-		
+		add("bandsActive/1998|Select bands of a given genre which are still in activity");
+		add("bandsByMembers/rock|Select bands with AT LEAST the given number of members");	
+		add("bandname/Dover|Select bands with a given name");
+		add("activeYearsStartYear/1995|Select bands given the year of establishment");
+		add("longlastingBands/5|Select bands which have been in activity for AT LEAST the given number of years");
+		add("bandMostActive/rock|Select TOP 10 most productive bands of a given genre");
+		add("averageMembers/rock|Calculate the average number of members of all the bands of a given genre");
 	}};
 	
 
@@ -46,20 +50,24 @@ public class MusicRESTClient {
 			}
 			
 			System.out.println("Enter the query parameter: ");
-			scanner = new Scanner(System.in);
+			scanner = new Scanner(System.in);	
 			
 			String parameter = scanner.nextLine();
+			
+			if (qNumber ==8) {
+				parameter = '"' + parameter + '"';
+			}	
 			
 			String final_query = queries.get(qNumber-1).split("/")[0] + "/" + parameter;
 			
 			System.out.println("Executing Query: "+queries.get(qNumber-1).split("\\|")[1]+": " + parameter + "\n");
-			callendpointIEEE(endpointIEEE + final_query, MediaType.APPLICATION_JSON);
+			callendpoint(endpoint + final_query, MediaType.APPLICATION_JSON);
 			
 		}
 	}
 
-	public static void callendpointIEEE(String endpointIEEEIEEE, String responseType) {
-		WebClient client = WebClient.create(endpointIEEEIEEE);
+	public static void callendpoint(String endpoint, String responseType) {
+		WebClient client = WebClient.create(endpoint);
 		Response response = client.accept(responseType).get();
 		String resultString = getResultString(response);
 		if(!resultString.isEmpty()) {
